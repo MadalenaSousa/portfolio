@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio Website
 
 This is the repository for the code for my personal website where I display all my works, professional information and contact information.
 
