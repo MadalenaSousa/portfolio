@@ -1,36 +1,34 @@
-document.querySelectorAll(".carousel").forEach((carousel) => {
-  const items = carousel.querySelectorAll(".carousel__item");
-  const buttonsHtml = Array.from(items, () => {
-    return `<span class="carousel__button"></span>`;
-  });
+let inc = 50;
+let i = 0;
+let works = document.querySelectorAll(".inner div");
 
-  carousel.insertAdjacentHTML(
-    "beforeend",
-    `
-		<div class="carousel__nav">
-			${buttonsHtml.join("")}
-		</div>
-	`
-  );
+document.onkeydown = (e) => {
+  e = e || window.event;
 
-  const buttons = carousel.querySelectorAll(".carousel__button");
+  if (e.keyCode === 37)
+  {
+    if(i != 0) {
+      inc = inc + 50;
+      i--;
 
-  buttons.forEach((button, i) => {
-    button.addEventListener("click", () => {
-      // un-select all the items
-      items.forEach((item) =>
-        item.classList.remove("carousel__item--selected")
-      );
-      buttons.forEach((button) =>
-        button.classList.remove("carousel__button--selected")
-      );
+      document.getElementById('highlight').removeAttribute('id');
+      works[i].id = 'highlight';
+      document.querySelector(".inner").style.webkitTransform = "translateX(" + inc + "%)";
 
-      items[i].classList.add("carousel__item--selected");
-      button.classList.add("carousel__button--selected");
-    });
-  });
+      console.log('Left arrow pressed, New Transform: ' + document.querySelector(".inner").style.transform + ' Applied Inc:' + inc);
+    }
+  }
+  else if (e.keyCode === 39)
+  {
+    if(i != works.length-1) {
+      inc = inc - 50;
+      i++;
 
-  // Select the first item on page load
-  items[0].classList.add("carousel__item--selected");
-  buttons[0].classList.add("carousel__button--selected");
-});
+      document.getElementById('highlight').removeAttribute('id');
+      works[i].id = 'highlight';
+      document.querySelector(".inner").style.webkitTransform = "translateX(" + inc + "%)";
+
+      console.log('Right arrow pressed, New Transform: ' + document.querySelector(".inner").style.transform + ' Applied Inc:' + inc);
+    }
+  }
+}
