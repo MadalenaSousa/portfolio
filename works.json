@@ -1,0 +1,38 @@
+{
+  "works": [
+    {
+      "title": "Planetarium App Design",
+      "description": "The goal of this project was to design an possible oficial app for the Porto Planetarium that fulfilled the needs of the staff, this meant that it should include a away of interacting with the public during sessions, listening to audio based on the QR codes of the initial Planetarium exibhition, seeing a calendar with the events, buy session tickets and learn more about the history of the Planetarium. This design was created not only by me but also by Mariana Caridade and Hugo Carvalho.",
+      "cover": "images/planetarium/cover.png",
+      "images": [
+        {
+          "src": "images/planetarium/1.png",
+          "title": "Design Choices",
+          "description": "Color Palette and Fonts"
+        },
+        {
+          "src": "images/planetarium/2.png",
+          "title": "Sample Screens",
+          "description": "Landing page, homepage, audio guide page and session quiz page, respectively from left to right"
+        }
+      ]
+    },
+    {
+      "title": "Match App Design",
+      "description": "The goal of this project was to design an possible oficial app for the Porto Planetarium that fulfilled the needs of the staff, this meant that it should include a away of interacting with the public during sessions, listening to audio based on the QR codes of the initial Planetarium exibhition, seeing a calendar with the events, buy session tickets and learn more about the history of the Planetarium. This design was created not only by me but also by Inês Carvalho.",
+      "cover": "images/planetarium/cover.png",
+      "images": [
+        {
+          "src": "images/planetarium/1.png",
+          "title": "Design Choices",
+          "description": "Color Palette and Fonts"
+        },
+        {
+          "src": "images/planetarium/2.png",
+          "title": "Sample Screens",
+          "description": "Landing page, homepage, audio guide page and session quiz page, respectively from left to right"
+        }
+      ]
+    }
+  ]
+}
