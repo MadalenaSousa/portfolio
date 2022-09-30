@@ -20,7 +20,7 @@ document.onkeydown = (e) => {
 
   if (e.keyCode === 37)
   {
-    if(i != 0) {
+    if(i !== 0) {
       inc = inc + 100;
       i--;
 
@@ -37,7 +37,7 @@ document.onkeydown = (e) => {
   }
   else if (e.keyCode === 39)
   {
-    if(i != works.length-1) {
+    if(i !== works.length-1) {
       inc = inc - 100;
       i++;
 
@@ -65,12 +65,12 @@ function createWork(json) {
     let divBox = document.createElement("div");
     divBox.classList.add("work");
 
-    if(i == 0) {
+    if(i === 0) {
         divBox.id = "highlight";
     }
 
     let workLink = document.createElement("a");
-    workLink.setAttribute("src", json[i].link);
+    workLink.setAttribute("src", "work.php");
 
     let smallDivBox = document.createElement("div");
 

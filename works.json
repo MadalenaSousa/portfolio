@@ -1,9 +1,9 @@
 [
   {
+    "id": 1,
     "title": "Planetarium App Design",
     "description": "The goal of this project was to design an possible oficial app for the Porto Planetarium that fulfilled the needs of the staff, this meant that it should include a away of interacting with the public during sessions, listening to audio based on the QR codes of the initial Planetarium exibhition, seeing a calendar with the events, buy session tickets and learn more about the history of the Planetarium. This design was created not only by me but also by Mariana Caridade and Hugo Carvalho.",
     "cover": "images/planetarium/cover.png",
-    "link": "work.html",
     "images": [
       {
         "src": "images/planetarium/1.png",
@@ -18,10 +18,10 @@
     ]
   },
   {
+    "id": 2,
     "title": "Match App Design",
     "description": "This project was in colaboration with the Construction Institute from University of Porto. The client needed an application where professinals could login and register building data according to the norms of Heritage Assessment. The App also needed to allow searching for building data, finding and adding building locations and other useful functionalities.",
     "cover": "images/match/cover.png",
-    "link": "work.html",
     "images": [
       {
         "src": "images/match/1.png",

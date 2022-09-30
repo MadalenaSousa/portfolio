@@ -63,38 +63,7 @@
     <div class="row space-mid"></div>
 
     <div class="row outter">
-      <!--div class="twelve columns inner">
-        <div class="work" id="highlight">
-          <a href="work.html"><div><img width="100%" src="images/cover.png" alt=""></div></a>
-        </div>
-        <div class="work">
-          <a href="work.html"><div><img width="100%" src="images/cover.png" alt=""></div></a>
-        </div>
-        <div class="work">
-          <a href="work.html"><div><img width="100%" src="images/cover.png" alt=""></div></a>
-        </div>
-        <div class="work">
-          <a href="work.html"><div><img width="100%" src="images/cover.png" alt=""></div></a>
-        </div>
-        <div class="work">
-          <a href="work.html"><div><img width="100%" src="images/cover.png" alt=""></div></a>
-        </div>
-        <div class="work">
-          <a href="work.html"><div><img width="100%" src="images/cover.png" alt=""></div></a>
-        </div>
-        <div class="work">
-          <a href="work.html"><div><img width="100%" src="images/cover.png" alt=""></div></a>
-        </div>
-        <div class="work">
-          <a href="work.html"><div><img width="100%" src="images/cover.png" alt=""></div></a>
-        </div>
-        <div class="work">
-          <a href="work.html"><div><img width="100%" src="images/cover.png" alt=""></div></a>
-        </div>
-        <div class="work">
-          <a href="work.html"><div><img width="100%" src="images/cover.png" alt=""></div></a>
-        </div>
-      </div-->
+
     </div>
 
   </div> <!-- End Container -->

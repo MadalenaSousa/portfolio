@@ -94,11 +94,13 @@ body {
 
 .outter {
   height: 35vh;
+  z-index: -1;
 }
 
 .inner {
   height: 100%;
   white-space: nowrap;
+  z-index: -1;
 
   transition: transform 1.5s;
   transform: translateX(50%);
@@ -109,6 +111,7 @@ body {
   width: 40vw;
   display: inline-block;
   position: relative;
+  z-index: -1;
 
   transform: translateX(-50%) scale(1);
   transition: transform 1.5s;
