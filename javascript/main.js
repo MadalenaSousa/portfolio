@@ -70,7 +70,7 @@ function createWork(json) {
     }
 
     let workLink = document.createElement("a");
-    workLink.setAttribute("src", "work.php");
+    workLink.setAttribute("href", "work.php?id=" + json[i].id);
 
     let smallDivBox = document.createElement("div");
 

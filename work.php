@@ -34,10 +34,10 @@
   <div class="container"> <!-- Begin Container -->
     <nav class="row">
       <div class="header two columns" id="logo">
-        <a href="index.html"><img width="200vw" src="images/assinatura.png" alt=""></a>
+        <a href="index.php"><img width="200vw" src="images/assinatura.png" alt=""></a>
       </div>
       <div class="header three columns">
-        <a href="index.html">Work</a>
+        <a href="index.php">Work</a>
         <a href="about.html">About</a>
         <a href="contact.html">Contact</a>
       </div>
