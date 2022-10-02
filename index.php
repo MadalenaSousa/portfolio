@@ -11,9 +11,9 @@
       <?php include 'header.php' ?>
     </header>
 
-    <div class="row space-small"></div>
+    <div class="row space-mid"></div>
 
-    <div class="row">
+    <!-- div class="row">
       <div class="twelve columns sub-header">
         <span>All</span>
         <span>UX/UI</span>
@@ -24,7 +24,7 @@
       </div>
     </div>
 
-    <div class="row space-mid"></div>
+    <div class="row space-mid"></div-->
 
     <div class="row outter">
 

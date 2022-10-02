@@ -4,6 +4,7 @@
     "title": "Planetarium App Design",
     "description": "The goal of this project was to design an possible oficial app for the Porto Planetarium that fulfilled the needs of the staff, this meant that it should include a away of interacting with the public during sessions, listening to audio based on the QR codes of the initial Planetarium exibhition, seeing a calendar with the events, buy session tickets and learn more about the history of the Planetarium. This design was created not only by me but also by Mariana Caridade and Hugo Carvalho.",
     "cover": "images/planetarium/cover.png",
+    "category": "uxui",
     "images": [
       {
         "src": "images/planetarium/1.png",
@@ -22,6 +23,7 @@
     "title": "Match App Design",
     "description": "This project was in colaboration with the Construction Institute from University of Porto. The client needed an application where professinals could login and register building data according to the norms of Heritage Assessment. The App also needed to allow searching for building data, finding and adding building locations and other useful functionalities.",
     "cover": "images/match/cover.png",
+    "category": "uxui",
     "images": [
       {
         "src": "images/match/1.png",
@@ -37,6 +39,59 @@
         "src": "images/match/3.png",
         "title": "Sample Screens",
         "description": "Search Page, Landing Page and Building Map Page"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "ECOSPOTS",
+    "description": "This project was in colaboration with the Construction Institute from University of Porto. The client needed an application where professinals could login and register building data according to the norms of Heritage Assessment. The App also needed to allow searching for building data, finding and adding building locations and other useful functionalities.",
+    "cover": "images/ecospots/cover.png",
+    "category": "uxui",
+    "images": [
+      {
+        "src": "images/ecospots/1.png",
+        "title": "Design Choices",
+        "description": "Color Palette, Fonts and Concept"
+      },
+      {
+        "src": "images/ecospots/2.png",
+        "title": "Logo",
+        "description": "Logo versions and concepts."
+      },
+      {
+        "src": "images/ecospots/3.gif",
+        "title": "Sample Screens",
+        "description": "Search Page, Landing Page and Building Map Page"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Ilustrations (Pack 1)",
+    "description": "This project is a gathering of some ilustrations made around the theme of flowers (a very common theme for me, I love flowers and drawing them), with some added other elements. All the drawings were made in Adobe Illustrator.",
+    "cover": "images/ilustrations1/cover.png",
+    "category": "ilustration",
+    "images": [
+      {
+        "src": "images/ilustrations1/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/ilustrations1/2.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/ilustrations1/3.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/ilustrations1/4.png",
+        "title": "",
+        "description": ""
       }
     ]
   }
