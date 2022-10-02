@@ -43,15 +43,22 @@
       </div>
     </nav>
 
+      <?php
+
+        $string = file_get_contents("works.json");
+        $json_works = json_decode($string, true);
+        $work_id = $_GET['id'];
+      ?>
+
     <div class="row space-small"></div>
 
     <div class="row">
-      <div class="six columns">
-        <img width="100%" src="images/planetarium/cover.png" alt="">
+      <div class="six columns workcover">
+        <img width="100%" src="<?php echo $json_works[$work_id]["cover"]; ?>" alt="">
       </div>
       <div class="six columns">
-        <h2>Planetarium App Design</h2>
-        <p>The goal of this project was to design an possible oficial app for the Porto Planetarium that fulfilled the needs of the staff, this meant that it should include a away of interacting with the public during sessions, listening to audio based on the QR codes of the initial Planetarium exibhition, seeing a calendar with the events, buy session tickets and learn more about the history of the Planetarium. This design was created not only by me but also by Mariana Caridade and Hugo Carvalho.</p>
+        <h2><?php echo $json_works[$work_id]["title"]; ?></h2>
+        <p><?php echo $json_works[$work_id]["description"]; ?></p>
       </div>
     </div>
 
@@ -59,14 +66,14 @@
 
     <div class="row">
       <div class="twelve columns">
-        <img width="100%" src="images/planetarium/1.png" alt="">
+        <img width="100%" src="<?php echo $json_works[$work_id]["images"][0]["src"]; ?>" alt="">
       </div>
     </div>
 
     <div class="row">
       <div class="twelve columns">
-        <h5>Design Choices</h5>
-        <span>Color Palette and Fonts</span>
+        <h5><?php echo $json_works[$work_id]["images"][0]["title"]; ?></h5>
+        <span><?php echo $json_works[$work_id]["images"][0]["description"]; ?></span>
       </div>
     </div>
 
@@ -74,14 +81,14 @@
 
     <div class="row">
       <div class="twelve columns">
-        <img width="100%" src="images/planetarium/2.png" alt="">
+        <img width="100%" src="<?php echo $json_works[$work_id]["images"][1]["src"]; ?>" alt="">
       </div>
     </div>
 
     <div class="row">
       <div class="twelve columns">
-        <h5>Sample Screens</h5>
-        <span>Landing page, homepage, audio guide page and session quiz page, respectively from left to right</span>
+        <h5><?php echo $json_works[$work_id]["images"][1]["title"]; ?></h5>
+        <span><?php echo $json_works[$work_id]["images"][1]["description"]; ?></span>
       </div>
     </div>
 
