@@ -64,35 +64,24 @@
 
     <div class="row space-mid"></div>
 
+    <?php foreach($json_works[$work_id]["images"]as $images) {
+        echo '
     <div class="row">
       <div class="twelve columns">
-        <img width="100%" src="<?php echo $json_works[$work_id]["images"][0]["src"]; ?>" alt="">
+        <img width="100%" src='. $images["src"] . ' alt="">
       </div>
     </div>
 
     <div class="row">
       <div class="twelve columns">
-        <h5><?php echo $json_works[$work_id]["images"][0]["title"]; ?></h5>
-        <span><?php echo $json_works[$work_id]["images"][0]["description"]; ?></span>
+        <h5>' . $images["title"] . '</h5>
+        <span>' . $images["description"] . '</span>
       </div>
     </div>
 
-    <div class="row space-mid"></div>
+    <div class="row space-mid"></div>';
 
-    <div class="row">
-      <div class="twelve columns">
-        <img width="100%" src="<?php echo $json_works[$work_id]["images"][1]["src"]; ?>" alt="">
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="twelve columns">
-        <h5><?php echo $json_works[$work_id]["images"][1]["title"]; ?></h5>
-        <span><?php echo $json_works[$work_id]["images"][1]["description"]; ?></span>
-      </div>
-    </div>
-
-    <div class="row space-mid"></div>
+    } ?>
 
     <div class="row">
       <div class="twelve columns thankyou">
