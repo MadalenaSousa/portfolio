@@ -29,18 +29,18 @@
             <img src="" alt="">
           </div>
           <div class="eight columns">
-            <form class="contactForm" action="" method="post">
+            <form class="contactForm" action="php/sendmail.php" method="post">
                 <label for="name">Your Name</label>
-                <input id="name" type="text" name="Name">
+                <input id="name" type="text" name="name">
 
-                <label for="name">Subject</label>
-                <input id="name" type="text" name="Name">
+                <label for="subject">Subject</label>
+                <input id="subject" type="text" name="subject">
 
                 <label for="email">Your Email</label>
-                <input id="email" type="email" name="Email">
+                <input id="email" type="email" name="email">
 
                 <label for="message">Message</label>
-                <textarea id="message" name="Message"></textarea>
+                <textarea id="message" name="message"></textarea>
 
                 <input class="button-primary" type="submit" value="Send" />
             </form>
