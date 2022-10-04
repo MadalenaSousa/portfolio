@@ -12,14 +12,14 @@
     </header>
 
     <main>
-      <div class="row">
+      <div class="row about-cover">
         <div class="one column">
           <img src="" alt="">
         </div>
         <div class="three columns">
-          <img width="300vw" src="images/profilepic.png" alt="">
+          <img width="100%" src="images/profilepic.png" alt="">
         </div>
-        <div class="six columns">
+        <div class="seven columns">
           <div>
             <h4>Hey!</h4>
             <h1>I'm Madalena Sousa</h1>
@@ -78,7 +78,7 @@
           <img src="" alt="">
         </div>
         <div class="five columns">
-            <img src="images/softskills.png" alt="">
+            <img width="100%" src="images/softskills.png" alt="">
         </div>
         <div class="six columns">
             <span>Organization</span><br><br>
@@ -125,9 +125,9 @@
         <div class="one column">
           <img src="" alt="">
         </div>
-        <div class="eleven columns">
+        <div class="ten columns">
           <h2>Software</h2>
-          <img height="250vw" src="images/software.png" alt="">
+          <img width="100%" src="images/software.png" alt="">
         </div>
       </div>
 
@@ -181,6 +181,8 @@
   </div> <!-- End Container -->
 
   <div class="footer"></div>
+
+  <script src="javascript/main.js" type="module"></script>
 
 <!-- End Document
  –––––––––––––––––––––––––––––––––––––––––––––––––– -->

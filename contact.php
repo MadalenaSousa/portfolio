@@ -13,22 +13,22 @@
 
     <main>
         <div class="row">
-          <div class="three columns">
+          <div class="two columns">
             <img src="" alt="">
           </div>
-          <div class="six columns">
+          <div class="eight columns">
             <h2>Reach Out!</h2>
           </div>
-          <div class="three columns">
+          <div class="two columns">
             <img src="" alt="">
           </div>
         </div>
 
         <div class="row">
-          <div class="three columns">
+          <div class="two columns">
             <img src="" alt="">
           </div>
-          <div class="six columns">
+          <div class="eight columns">
             <form class="contactForm" action="" method="post">
                 <label for="name">Your Name</label>
                 <input id="name" type="text" name="Name">
@@ -45,7 +45,7 @@
                 <input class="button-primary" type="submit" value="Send" />
             </form>
           </div>
-          <div class="three columns">
+          <div class="two columns">
             <img src="" alt="">
           </div>
         </div>
@@ -53,6 +53,8 @@
   </div> <!-- End Container -->
 
   <div class="footer"></div>
+
+  <script src="javascript/main.js" type="module"></script>
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->

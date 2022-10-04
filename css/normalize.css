@@ -428,25 +428,23 @@ th {
 }
 
 .navBar{
-  background-color: #fff;
+  background-color: transparent;
 
 }
 
 /*Floats each item to the left with padding of 14 & 16 px.
 Removes the underline with text decoration = none.*/
 .navBar a{
-  float: right;
   color: grey;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  font-family: Tahoma;
 }
 
 /*Background color change during hover state*/
 .navBar a:hover{
-  background-color: white;
-  color: #009cde;
+  background-color: transparent;
+  color: black;
 }
 
 /*Hides the menu Icon which will show when the nav needs to be responsive*/
@@ -457,9 +455,7 @@ Removes the underline with text decoration = none.*/
 /*Set your custom screen width here replacing 700*/
 @media (max-width: 700px){
 /*Ignores the first link (which is Home) in the div and       applies 'display = none' to everything else.   Basically hiding everything but Home*/
-  .navBar a:not(:first-child){
-    display: none;
-  }
+
 /*Brings the menu icon into view and floats it to the right*/
   .navBar a.icon{
     display: block; float: right;

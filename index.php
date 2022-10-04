@@ -11,7 +11,7 @@
       <?php include 'header.php' ?>
     </header>
 
-    <div class="row space-mid"></div>
+    <div class="row space-small"></div>
 
     <!-- div class="row">
       <div class="twelve columns sub-header">
@@ -37,6 +37,7 @@
   <!-- Scripts
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <script src="works.json" type="text/javascript"></script>
+  <script src="javascript/works.js" type="module"></script>
   <script src="javascript/main.js" type="module"></script>
 
 <!-- End Document

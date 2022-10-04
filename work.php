@@ -20,9 +20,9 @@
 
         <div class="row space-small"></div>
 
-        <div class="row">
-          <div class="six columns workcover">
-            <img width="100%" src="<?php echo $json_works[$work_id]["cover"]; ?>" alt="">
+        <div class="row workcover">
+          <div class="six columns">
+            <img src="<?php echo $json_works[$work_id]["cover"]; ?>" alt="">
           </div>
           <div class="six columns">
             <h2><?php echo $json_works[$work_id]["title"]; ?></h2>
@@ -63,6 +63,8 @@
   </div> <!-- End Container -->
 
   <div class="footer"></div>
+
+  <script src="javascript/main.js" type="module"></script>
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->

@@ -1,12 +1,20 @@
-<nav class="row">
-    <div class="two columns" id="logo">
-        <a href="index.php"><img width="200vw" src="images/assinatura.png" alt=""></a>
-    </div>
-    <div class="ten columns">
-        <div class="header">
-            <a href="index.php">Work</a>
-            <a href="about.php">About</a>
-            <a href="contact.php">Contact</a>
+<nav class="row navBar">
+    <div class="twelve columns">
+        <div class="logo">
+            <a href="index.php"><img src="images/assinatura.png" alt=""></a>
         </div>
+
+        <div class="nav-menu">
+            <a class="nav-item" href="index.php">Work</a>
+            <a class="nav-item" href="about.php">About</a>
+            <a class="nav-item" href="contact.php">Contact</a>
+        </div>
+
+        <div class="hamburger">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </div>
+
     </div>
 </nav>
