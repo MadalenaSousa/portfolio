@@ -32,16 +32,16 @@
           <div class="eight columns">
             <form class="contactForm" action="php/sendmail.php" method="post">
                 <label for="name">Your Name</label>
-                <input id="name" type="text" name="name">
+                <input id="name" type="text" name="name" required>
 
                 <label for="subject">Subject</label>
-                <input id="subject" type="text" name="subject">
+                <input id="subject" type="text" name="subject" required>
 
                 <label for="email">Your Email</label>
-                <input id="email" type="email" name="email">
+                <input id="email" type="email" name="email" required>
 
                 <label for="message">Message</label>
-                <textarea id="message" name="message"></textarea>
+                <textarea id="message" name="message" required></textarea>
 
                 <div class="buttonwithhover">
                     <input class="button-primary" type="submit" value="Send" />
