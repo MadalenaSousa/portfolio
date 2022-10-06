@@ -48,10 +48,6 @@ body {
   color: black;
 }
 
-.nav-menu .nav-item:hover {
-  text-decoration: line-through;
-}
-
 .logo {
   float: left;
   padding: 3vh 0 3vh 0;
@@ -98,6 +94,42 @@ body {
   display: none;
 }
 
+.nav-item {
+  position: relative;
+}
+
+.displayNone {
+  display: none;
+}
+
+.buttonwithhover {
+  position: relative;
+}
+
+.navHover {
+  position: absolute;
+  top: -15px;
+  left: 8px;
+}
+
+.contactHover {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+}
+
+.hovereffect {
+  stroke-dasharray: 500;
+  stroke-dashoffset: 500;
+  animation: dash 0.5s linear forwards;
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
 /*FOOTER*/
 
 .footer {
@@ -136,6 +168,13 @@ body {
   border-width: 2px;
   border-radius: 0;
   text-align: right;
+}
+
+.buttonwithhover input {
+  width: 18%;
+  float: right;
+  text-align: right;
+  padding: 0;
 }
 
 /*SINGLE WORK*/
