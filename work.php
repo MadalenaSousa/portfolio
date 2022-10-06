@@ -62,8 +62,6 @@
     </main>
   </div> <!-- End Container -->
 
-  <div class="footer"></div>
-
   <script src="javascript/main.js" type="module"></script>
 
 <!-- End Document

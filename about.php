@@ -12,6 +12,8 @@
     </header>
 
     <main>
+        <div class="row space-mid"></div>
+
       <div class="row about-cover">
         <div class="one column">
           <img src="" alt="">
@@ -32,9 +34,7 @@
         </div>
       </div>
 
-      <div class="row" style="height: 5vh;">
-          <img src="" alt="">
-      </div>
+        <div class="row space-mid"></div>
 
       <div class="row">
         <div class="one column">
@@ -60,38 +60,30 @@
         </div>
       </div>
 
-      <div class="row" style="height: 5vh;">
-          <img src="" alt="">
-      </div>
+        <div class="row space-mid"></div>
 
-      <div class="row">
-        <div class="one column">
-          <img src="" alt="">
+        <div class="row">
+            <div class="one column">
+                <img src="" alt="">
+            </div>
+            <div class="ten columns">
+                <h2>Software</h2>
+            </div>
         </div>
-        <div class="eleven columns">
-            <h2>Soft Skills</h2>
-        </div>
-      </div>
 
-      <div class="row">
-        <div class="one column">
-          <img src="" alt="">
+        <div class="row">
+            <div class="one column">
+                <img src="" alt="">
+            </div>
+            <div class="four columns">
+                <img width="100%" src="images/software-1.png" alt="">
+            </div>
+            <div class="four columns">
+                <img width="100%" src="images/software-2.png" alt="">
+            </div>
         </div>
-        <div class="five columns">
-            <img width="100%" src="images/softskills.png" alt="">
-        </div>
-        <div class="six columns">
-            <span>Organization</span><br><br>
-            <span>Team Work</span><br><br>
-            <span>Problem Solving</span><br><br>
-            <span>Criativity</span><br><br>
-            <span>Autonomy</span>
-        </div>
-      </div>
 
-      <div class="row" style="height: 5vh;">
-          <img src="" alt="">
-      </div>
+        <div class="row space-mid"></div>
 
       <div class="row">
         <div class="one column">
@@ -117,23 +109,41 @@
         </div>
       </div>
 
-      <div class="row" style="height: 5vh;">
-          <img src="" alt="">
-      </div>
+        <div class="row space-mid"></div>
 
-      <div class="row">
-        <div class="one column">
-          <img src="" alt="">
+        <div class="row">
+            <div class="one column">
+                <img src="" alt="">
+            </div>
+            <div class="eleven columns">
+                <h2>Soft Skills</h2>
+            </div>
         </div>
-        <div class="ten columns">
-          <h2>Software</h2>
-          <img width="100%" src="images/software.png" alt="">
-        </div>
-      </div>
 
-      <div class="row" style="height: 5vh;">
-          <img src="" alt="">
-      </div>
+        <div class="row space-small"></div>
+
+        <div class="row">
+            <div class="one column">
+                <img src="" alt="">
+            </div>
+            <div class="two columns">
+                <img width="100%" src="images/softskills-1.png" alt="">
+            </div>
+            <div class="two columns">
+                <img width="100%" src="images/softskills-2.png" alt="">
+            </div>
+            <div class="two columns">
+                <img width="100%" src="images/softskills-3.png" alt="">
+            </div>
+            <div class="two columns">
+                <img width="100%" src="images/softskills-4.png" alt="">
+            </div>
+            <div class="two columns">
+                <img width="100%" src="images/softskills-5.png" alt="">
+            </div>
+        </div>
+
+        <div class="row space-mid"></div>
 
       <div class="row">
         <div class="one column">
@@ -152,9 +162,7 @@
         </div>
       </div>
 
-      <div class="row" style="height: 5vh;">
-          <img src="" alt="">
-      </div>
+        <div class="row space-mid"></div>
 
       <div class="row">
         <div class="one column">
@@ -166,21 +174,17 @@
           </div>
           <div>
             <p>
-              github.com/MadalenaSousa <br>
-              behance.net/madalena-sousa <br>
+              <a href="github.com/MadalenaSousa">github.com/MadalenaSousa</a> <br>
+                <a href="behance.net/madalena-sousa">behance.net/madalena-sousa</a> <br>
             </p>
           </div>
         </div>
       </div>
 
-      <div class="row" style="height: 160px;">
-          <img src="" alt="">
-      </div>
+        <div class="row space-mid"></div>
 
     </main>
   </div> <!-- End Container -->
-
-  <div class="footer"></div>
 
   <script src="javascript/main.js" type="module"></script>
 

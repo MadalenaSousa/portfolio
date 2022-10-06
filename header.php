@@ -1,7 +1,7 @@
 <nav class="row navBar">
     <div class="twelve columns">
         <div class="logo">
-            <a href="index.php"><img src="images/assinatura.png" alt=""></a>
+            <a href="index.php"><img src="images/logo.png" alt=""></a>
         </div>
 
         <div class="nav-menu">

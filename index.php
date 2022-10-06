@@ -11,7 +11,7 @@
       <?php include 'header.php' ?>
     </header>
 
-    <div class="row space-small"></div>
+    <div class="row space-mid"></div>
 
     <!-- div class="row">
       <div class="twelve columns sub-header">
@@ -26,13 +26,15 @@
 
     <div class="row space-mid"></div-->
 
-    <div class="row outter">
+    <div class="row">
+        <div class="twelve columns works">
 
+        </div>
     </div>
 
-  </div> <!-- End Container -->
+  <div class="row space-large"></div>
 
-  <div class="footer"></div>
+  </div> <!-- End Container -->
 
   <!-- Scripts
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
