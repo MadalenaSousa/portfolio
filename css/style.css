@@ -28,11 +28,11 @@ body {
 }
 
 .space-mid {
-  height: 12vh;
+  height: 6vh;
 }
 
 .space-large {
-  height: 24vh;
+  height: 12vh;
 }
 
 /*NAVIGATION*/
@@ -54,9 +54,26 @@ body {
 
 .logo {
   float: left;
-  padding: 3vh 0px 3vh 0px;
-  height: 100%;
-  width: 12vw;
+  padding: 3vh 0 3vh 0;
+  width: 15%;
+}
+
+@media (min-width: 800px) and (max-width: 1200px) {
+  .logo {
+    width: 20%;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 800px) {
+  .logo {
+    width: 25%;
+  }
+}
+
+@media (max-width: 600px) {
+  .logo {
+    width: 30%;
+  }
 }
 
 .logo img {
@@ -152,6 +169,16 @@ body {
 @media (max-width: 800px) {
   .about-cover {
     display: block;
+  }
+}
+
+.softkills img {
+  width: 100%;
+}
+
+@media (max-width: 800px) {
+  .softkills img {
+    width: 50%;
   }
 }
 

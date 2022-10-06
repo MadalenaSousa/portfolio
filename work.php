@@ -18,7 +18,7 @@
         $work_id = $_GET['id'];
       ?>
 
-        <div class="row space-small"></div>
+        <div class="row space-mid"></div>
 
         <div class="row workcover">
           <div class="six columns">

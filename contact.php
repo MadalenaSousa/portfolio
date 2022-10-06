@@ -12,6 +12,7 @@
     </header>
 
     <main>
+        <div class="row space-mid"></div>
         <div class="row">
           <div class="two columns">
             <img src="" alt="">
