@@ -59,6 +59,7 @@
   </div> <!-- End Container -->
 
   <script src="javascript/main.js" type="module"></script>
+  <script src="javascript/contact.js" type="module"></script>
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->

@@ -130,6 +130,12 @@ body {
   }
 }
 
+@media (max-width: 700px) {
+  .navHover {
+    display: none;
+  }
+}
+
 /*FOOTER*/
 
 .footer {

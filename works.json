@@ -94,5 +94,120 @@
         "description": ""
       }
     ]
+  },
+  {
+    "id": 4,
+    "title": "Soup Festival (Festival das Sopas)",
+    "description": "This was a freelance project made for the Soup Festival in Figueira de Lorvão. The briefing included the need for posters and social media posts. The identity uses warm colors to relate to the warmth of soup and a fun and think font to appeal to the festival side and to improve visibility. This project was made using Adobe Illustrator, Premiere Pro and After Effects.",
+    "cover": "images/soupfestival/cover.png",
+    "category": "branding",
+    "images": [
+      {
+        "src": "images/soupfestival/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/soupfestival/2.png",
+        "title": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Wedding Guide",
+    "description": "This was a freelance project made for a wedding. The briefing included the need for a flyer or editorial element with the steps of the wedding ceremony. There were no specific requirements just that it should be elegant and simple. I drawed a rose for the cover and a rose stem for the back and the rest of the work was maily typographical. This project was made using Adobe In Design.",
+    "cover": "images/wedding1/cover.png",
+    "category": "branding",
+    "images": [
+      {
+        "src": "images/wedding1/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/wedding1/2.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/wedding1/3.png",
+        "title": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Stanley Morrison Flyer",
+    "description": "This was a project made for a Typography class where we had to make a flyer that showed information about a Typographer and their most famous font. My flyer is about Stanley Morrison, the creator of Times New Roman. The front of the flyer has all the information and the back has big poster.",
+    "cover": "images/flyer1/cover.png",
+    "category": "branding",
+    "images": [
+      {
+        "src": "images/flyer1/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/flyer1/2.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/flyer1/3.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/flyer1/4.png",
+        "title": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Self Portrait",
+    "description": "This was a project made for a Photography class where we had to present a self portrait. The overall look of the pictures is dark because the goal is to show the not so happy parts of me. Each gesture in a away shows an insecurity or dilema.",
+    "cover": "images/selfportrait/cover.png",
+    "category": "photography",
+    "images": [
+      {
+        "src": "images/selfportrait/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/selfportrait/2.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/selfportrait/3.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/selfportrait/4.png",
+        "title": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "What is Happiness?",
+    "description": "This was a project made for a Design class where we had to illustrate what is happiness and of course my brain went immediately to food.",
+    "cover": "images/donut/cover.png",
+    "category": "photography",
+    "images": [
+      {
+        "src": "images/donut/cover.png",
+        "title": "",
+        "description": ""
+      }
+    ]
   }
 ]
