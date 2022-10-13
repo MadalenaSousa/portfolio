@@ -51,6 +51,27 @@
 
         } ?>
 
+        <?php foreach($json_works[$work_id]["videos"]as $videos) {
+            echo '
+        <div class="row">
+          <div class="twelve columns">
+            <video width="100%" controls>
+                <source src="' . $videos["src"] . '" type="video/mp4">
+            </video>
+          </div>
+        </div>
+    
+        <div class="row">
+          <div class="twelve columns">
+            <h5>' . $videos["title"] . '</h5>
+            <span>' . $videos["description"] . '</span>
+          </div>
+        </div>
+    
+        <div class="row space-mid"></div>';
+
+        } ?>
+
         <div class="row">
           <div class="twelve columns thankyou">
             <h3>Thank You!</h3>

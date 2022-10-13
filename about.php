@@ -19,7 +19,7 @@
           <img src="" alt="">
         </div>
         <div class="three columns">
-          <img width="100%" src="images/profilepic.png" alt="">
+          <img width="100%" src="images/aboutpage/profilepic.png" alt="">
         </div>
         <div class="seven columns">
           <div>
@@ -76,13 +76,13 @@
                 <img src="" alt="">
             </div>
             <div class="five columns">
-                <img width="80%" src="images/software-1.png" alt="">
+                <img width="80%" src="images/aboutpage/software-1.png" alt="">
             </div>
             <div class="one column">
                 <img src="" alt="">
             </div>
             <div class="five columns">
-                <img width="80%" src="images/software-2.png" alt="">
+                <img width="80%" src="images/aboutpage/software-2.png" alt="">
             </div>
         </div>
 
@@ -130,19 +130,19 @@
                 <img src="" alt="">
             </div>
             <div class="two columns">
-                <img src="images/softskills-1.png" alt="">
+                <img src="images/aboutpage/softskills-1.png" alt="">
             </div>
             <div class="two columns">
-                <img src="images/softskills-2.png" alt="">
+                <img src="images/aboutpage/softskills-2.png" alt="">
             </div>
             <div class="two columns">
-                <img src="images/softskills-3.png" alt="">
+                <img src="images/aboutpage/softskills-3.png" alt="">
             </div>
             <div class="two columns">
-                <img src="images/softskills-4.png" alt="">
+                <img src="images/aboutpage/softskills-4.png" alt="">
             </div>
             <div class="two columns">
-                <img src="images/softskills-5.png" alt="">
+                <img src="images/aboutpage/softskills-5.png" alt="">
             </div>
         </div>
 

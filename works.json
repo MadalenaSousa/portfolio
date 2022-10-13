@@ -15,8 +15,24 @@
         "src": "images/planetarium/2.png",
         "title": "Sample Screens",
         "description": "Landing page, homepage, audio guide page and session quiz page, respectively from left to right"
+      },
+      {
+        "src": "images/planetarium/3.gif",
+        "title": "Login and Calender",
+        "description": "The user can login to the app and check the calender and Planetarium events."
+      },
+      {
+        "src": "images/planetarium/4.gif",
+        "title": "Quiz",
+        "description": "The user can use the app to participate in Planetarium sessions, through a quiz like form."
+      },
+      {
+        "src": "images/planetarium/5.gif",
+        "title": "Audio and History",
+        "description": "The user can listen to the audio guide through the QR Codes as well as check historical information about the Planetarium."
       }
-    ]
+    ],
+    "videos": []
   },
   {
     "id": 1,
@@ -39,6 +55,13 @@
         "src": "images/match/3.png",
         "title": "Sample Screens",
         "description": "Search Page, Landing Page and Building Map Page"
+      }
+    ],
+    "videos": [
+      {
+        "src": "images/match/demo.mp4",
+        "title": "",
+        "description": ""
       }
     ]
   },
@@ -63,6 +86,13 @@
         "src": "images/ecospots/3.gif",
         "title": "Sample Screens",
         "description": "Search Page, Landing Page and Building Map Page"
+      }
+    ],
+    "videos": [
+      {
+        "src": "images/ecospots/demo.mp4",
+        "title": "",
+        "description": ""
       }
     ]
   },
@@ -93,7 +123,8 @@
         "title": "",
         "description": ""
       }
-    ]
+    ],
+    "videos": []
   },
   {
     "id": 4,
@@ -109,6 +140,13 @@
       },
       {
         "src": "images/soupfestival/2.png",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "videos": [
+      {
+        "src": "images/soupfestival/demo.mp4",
         "title": "",
         "description": ""
       }
@@ -136,7 +174,8 @@
         "title": "",
         "description": ""
       }
-    ]
+    ],
+    "videos": []
   },
   {
     "id": 6,
@@ -165,7 +204,8 @@
         "title": "",
         "description": ""
       }
-    ]
+    ],
+    "videos": []
   },
   {
     "id": 7,
@@ -194,17 +234,184 @@
         "title": "",
         "description": ""
       }
-    ]
+    ],
+    "videos": []
   },
   {
     "id": 8,
     "title": "What is Happiness?",
     "description": "This was a project made for a Design class where we had to illustrate what is happiness and of course my brain went immediately to food.",
     "cover": "images/donut/cover.png",
-    "category": "photography",
+    "category": "ilustration",
     "images": [
       {
         "src": "images/donut/cover.png",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 9,
+    "title": "Revolution",
+    "description": "This was a project made for a Design class where we had to create a collage. I chose to do a collage fusing the portuguese revolution of April 25th and cellphones, touching upon the concept of how revolutions have gotten a very strong online component.",
+    "cover": "images/revolution/cover.png",
+    "category": "ilustration",
+    "images": [
+      {
+        "src": "images/revolution/cover.png",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 10,
+    "title": "Apropriation | Duane Michals",
+    "description": "This was a project made for a Photograohy class where we had to chose some of our favorite photographers and create images based on there works. These should include exact copies and adaptations. In the case of Duane Michals I chose to create two exact copies.",
+    "cover": "images/duanemichals/cover.png",
+    "category": "ilustration",
+    "images": [
+      {
+        "src": "images/duanemichals/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/duanemichals/cover.png",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 11,
+    "title": "Apropriation | Gregory Crewdson",
+    "description": "This was a project made for a Photograohy class where we had to chose some of our favorite photographers and create images based on there works. These should include exact copies and adaptations. Gregory Crewdson is one of my most favorite photographers, so I chose him to work on. I tried to create one exact copy, the picture in the cover and two inspired photos.",
+    "cover": "images/gregorycrewdson/cover.png",
+    "category": "ilustration",
+    "images": [
+      {
+        "src": "images/gregorycrewdson/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/gregorycrewdson/2.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/gregorycrewdson/cover.png",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 12,
+    "title": "Design, Art and Technology Conference Indentity",
+    "description": "This was a project made in the scope of a course about visual identities, the first branding project I ever made. It was in collaboration with Maria Soares. The briefing included creating a branding for the DAT(Design, Art and Technology) conference, which should include a website and posters.",
+    "cover": "images/dat/cover.png",
+    "category": "branding",
+    "images": [
+      {
+        "src": "images/dat/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/dat/2.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/dat/3.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/dat/4.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/dat/5.png",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 13,
+    "title": "Poster for Tomorrow",
+    "description": "These posters were made for the contest Poster for Tomorrow, in the scope of a class. The goal was to make posters that would alert to the environmental crisis.",
+    "cover": "images/polution/cover.png",
+    "category": "ilustration",
+    "images": [
+      {
+        "src": "images/polution/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/polution/2.png",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 14,
+    "title": "Country Pictograms",
+    "description": "In this project, we were given random countries and had to create coherent pictograms that represented them. I chose to use country legends and national animals.",
+    "cover": "images/pictograms/cover.png",
+    "category": "ilustration",
+    "images": [
+      {
+        "src": "images/pictograms/1.png",
+        "title": "Legend Based Pictograms",
+        "description": "Each pictogram sums a legend from the refered country through drawings. Notice that each pictograms composition is similar, to make them more coherent."
+      },
+      {
+        "src": "images/pictograms/2.png",
+        "title": "National Animal Based Pictograms",
+        "description": "Each pictogram is a geometrized image of the country's national animal. Notice that, despite them all being different, they still follow the same desin principles and therefore work well together."
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 15,
+    "title": "Hundreds 2.0 | In the Outer Space",
+    "description": "For this project we had to recreate the game Hundreds in Processing but giving it a little twist, therefor this is the game when its elements are switched to space elements. This project was in collaboration with Maria Figueira.",
+    "cover": "images/hundreds/cover.png",
+    "category": "games",
+    "images": [],
+    "videos": [
+      {
+      "src": "images/hundreds/demo.mp4",
+      "title": "",
+      "description": ""
+    }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "The Bucket Rider Animation",
+    "description": "For this project we had to chose a short story to animate. Me and my colleague Maria Figueira chose The Bucket Rider by Franz Kafka.",
+    "cover": "images/cavaleirodobalde/cover.gif",
+    "category": "video",
+    "images": [],
+    "videos": [
+      {
+        "src": "images/cavaleirodobalde/demo.mp4",
         "title": "",
         "description": ""
       }
