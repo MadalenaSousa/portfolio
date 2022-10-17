@@ -56,7 +56,7 @@
     ],
     "videos": [
       {
-        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/match/demo.mp4",
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/covidgame/demo.mp4",
         "title": "",
         "description": ""
       }
@@ -81,7 +81,7 @@
         "description": "Logo versions and concepts."
       },
       {
-        "src": "images/match/3.png",
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/match/demo.mp4",
         "title": "Sample Screens",
         "description": "Search Page, Landing Page and Building Map Page"
       }
@@ -135,7 +135,7 @@
     ],
     "videos": [
       {
-        "src": "images/scaleofthedead/demo.mp4",
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/scaleofthedead/demo.mp4",
         "title": "",
         "description": ""
       }
@@ -167,7 +167,7 @@
     ],
     "videos": [
       {
-        "src": "images/ecospots/demo.mp4",
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/ecospots/demo.mp4",
         "title": "",
         "description": ""
       }
@@ -199,17 +199,17 @@
     ],
     "videos": [
       {
-        "src": "images/musictastevisualizer/demo1.mp4",
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/musictastevisualizer/demo1.mp4",
         "title": "",
         "description": ""
       },
       {
-        "src": "images/musictastevisualizer/demo2.mp4",
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/musictastevisualizer/demo2.mp4",
         "title": "",
         "description": ""
       },
       {
-        "src": "images/musictastevisualizer/demo3.mp4",
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/musictastevisualizer/demo3.mp4",
         "title": "",
         "description": ""
       }
@@ -333,7 +333,7 @@
     ],
     "videos": [
       {
-        "src": "images/soupfestival/demo.mp4",
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/soupfestival/demo.mp4",
         "title": "",
         "description": ""
       }
@@ -349,7 +349,7 @@
     "images": [],
     "videos": [
       {
-        "src": "images/cavaleirodobalde/demo.mp4",
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/cavaleirodobalde/demo.mp4",
         "title": "",
         "description": ""
       }
@@ -594,7 +594,7 @@
     "images": [],
     "videos": [
       {
-      "src": "images/hundreds/demo.mp4",
+      "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/hundreds/demo.mp4",
       "title": "",
       "description": ""
     }
