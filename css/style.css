@@ -243,6 +243,7 @@ body {
 
 .work {
   flex: calc(33.33% - 3vw);
+  cursor: pointer;
 }
 
 .work img {
