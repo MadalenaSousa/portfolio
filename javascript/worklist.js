@@ -11,7 +11,7 @@ fetch('./works.json')
 
         for(let i = 0; i < json.length; i++) {
             document.querySelectorAll(".work")[i].addEventListener("click", function () {
-                window.location = "work.php";
+                window.location = "work.html";
                 sessionStorage.setItem("workId", json[i].id);
             })
         }
