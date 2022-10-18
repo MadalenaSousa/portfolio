@@ -3,7 +3,7 @@
     "id": 0,
     "title": "Planetarium App Design",
     "year" : "2021",
-    "description": "The goal of this project was to design an possible oficial app for the Porto Planetarium that fulfilled the needs of the staff, this meant that it should include a away of interacting with the public during sessions, listening to audio based on the QR codes of the initial Planetarium exibhition, seeing a calendar with the events, buy session tickets and learn more about the history of the Planetarium. This design was created not only by me but also by Mariana Caridade and Hugo Carvalho.",
+    "description": "The goal of this project was to design an possible official app for the Porto Planetarium that fulfilled the needs of the staff, this meant that it should include a away of interacting with the public during sessions, listening to audio based on the QR codes of the initial Planetarium exhibition, seeing a calendar with the events, buy session tickets and learn more about the history of the Planetarium. This design was created not only by me but also by Mariana Caridade and Hugo Carvalho.",
     "cover": "images/planetarium/cover.png",
     "category": "uxui",
     "tools": "FIGMA",
@@ -15,21 +15,26 @@
       },
       {
         "src": "images/planetarium/2.png",
+        "title": "Process",
+        "description": "Steps of the process and screenshots of the design document."
+      },
+      {
+        "src": "images/planetarium/3.png",
         "title": "Sample Screens",
         "description": "Landing page, homepage, audio guide page and session quiz page, respectively from left to right"
       },
       {
-        "src": "images/planetarium/3.gif",
+        "src": "images/planetarium/4.gif",
         "title": "Login and Calender",
         "description": "The user can login to the app and check the calender and Planetarium events."
       },
       {
-        "src": "images/planetarium/4.gif",
+        "src": "images/planetarium/5.gif",
         "title": "Quiz",
         "description": "The user can use the app to participate in Planetarium sessions, through a quiz like form."
       },
       {
-        "src": "images/planetarium/5.gif",
+        "src": "images/planetarium/6.gif",
         "title": "Audio and History",
         "description": "The user can listen to the audio guide through the QR Codes as well as check historical information about the Planetarium."
       }
@@ -68,7 +73,7 @@
     "id": 2,
     "title": "Match App Design",
     "year" : "2021",
-    "description": "This project was in colaboration with the Construction Institute from University of Porto. The client needed an application where professinals could login and register building data according to the norms of Heritage Assessment. The App also needed to allow searching for building data, finding and adding building locations and other useful functionalities.",
+    "description": "This project was in collaboration with the Construction Institute from University of Porto. The client needed an application where professionals could login and register building data according to the norms of Heritage Assessment. The App also needed to allow searching for building data, finding and adding building locations and other useful functionalities.",
     "cover": "images/match/cover.png",
     "category": "uxui",
     "tools": "FIGMA",
@@ -101,7 +106,7 @@
     "id": 3,
     "title": "Scale of the Dead",
     "year" : "2020",
-    "description": "This was a game made for a Digital Games class in collaboration with some colleagues. My part of this work was mainly focused on developement, level design and documentation.",
+    "description": "This was a game made for a Digital Games class in collaboration with some colleagues. My part of this work was mainly focused on development, level design and documentation.",
     "cover": "images/scaleofthedead/cover.gif",
     "category": "games",
     "tools": "UNITY",
@@ -149,7 +154,7 @@
     "id": 4,
     "title": "ECOSPOTS",
     "year" : "2020",
-    "description": "This project was in colaboration with the Construction Institute from University of Porto. The client needed an application where professinals could login and register building data according to the norms of Heritage Assessment. The App also needed to allow searching for building data, finding and adding building locations and other useful functionalities.",
+    "description": "This project's goal was to make sustainability more attractive to people. To do this, ECOSPOTS treats each good action towards the environment as a kind of game elements. Each time you do a good action, you get points. The user can then have friends and compare their points, bringing a competitive element to sustainable actions. This project was in collaboration with Maria Soares.",
     "cover": "images/ecospots/cover.png",
     "category": "uxui",
     "tools": "FIGMA",
@@ -161,13 +166,18 @@
       },
       {
         "src": "images/ecospots/2.png",
-        "title": "Logo",
-        "description": "Logo versions and concepts."
+        "title": "Process",
+        "description": "Steps of the process and screenshots of the design document."
       },
       {
-        "src": "images/ecospots/3.gif",
+        "src": "images/ecospots/3.png",
         "title": "Sample Screens",
-        "description": "Search Page, Landing Page and Building Map Page"
+        "description": "Landing Page, Homepage, Profile and Map Page"
+      },
+      {
+        "src": "images/ecospots/4.gif",
+        "title": "App Interactions",
+        "description": "Scrolling in homepage and adding a new good action,"
       }
     ],
     "videos": [
@@ -182,7 +192,7 @@
     "id": 5,
     "title": "Music Taste Visualizer",
     "year" : "2020",
-    "description": "This project was made for a Project class in the last year of my Bachelor's degree, it was made in collaboration with Maria Soares and Maria Figueira. In this project we were given freedon to create any interactive multimedia artifact, we chose to create a website that would make people closer through music. This project is a multiuser website that uses the Spotify API so that the users can enter and add/remove visual representations of their favorite songs, their favorite playlists and favorite artists. This creates an online artboard filled with several user's favorite music. At the end of the project, UX/UI user testing was done and we received good results.",
+    "description": "This project was made for a Project class in the last year of my Bachelor's degree, it was made in collaboration with Maria Soares and Maria Figueira. In this project we were given freedom to create any interactive multimedia artifact, we chose to create a website that would make people closer through music. This project is a multiuser website that uses the Spotify API so that the users can enter and add/remove visual representations of their favorite songs, their favorite playlists and favorite artists. This creates an online artboard filled with several user's favorite music. At the end of the project, UX/UI user testing was done and we received good results.",
     "cover": "images/musictastevisualizer/cover.gif",
     "category": "uxui",
     "tools": "SPOTIFY API | P5.JS | JAVASCRIPT | HTML | CSS",
@@ -290,9 +300,9 @@
   },
   {
     "id": 7,
-    "title": "Ilustrations (Pack 1)",
+    "title": "Illustrations (Pack 1)",
     "year" : "2020",
-    "description": "This project is a gathering of some ilustrations made around the theme of flowers (a very common theme for me, I love flowers and drawing them), with some added other elements. All the drawings were made in Adobe Illustrator.",
+    "description": "This project is a gathering of some illustrations made around the theme of flowers (a very common theme for me, I love flowers and drawing them), with some added other elements. All the drawings were made in Adobe Illustrator.",
     "cover": "images/ilustrations1/cover.png",
     "category": "ilustration",
     "tools": "ADOBE ILLUSTRATOR",
@@ -369,7 +379,7 @@
     "id": 10,
     "title": "Wedding Guide",
     "year" : "2019",
-    "description": "This was a freelance project made for a wedding. The briefing included the need for a flyer or editorial element with the steps of the wedding ceremony. There were no specific requirements just that it should be elegant and simple. I drawed a rose for the cover and a rose stem for the back and the rest of the work was maily typographical. This project was made using Adobe In Design.",
+    "description": "This was a freelance project made for a wedding. The briefing included the need for a flyer or editorial element with the steps of the wedding ceremony. There were no specific requirements just that it should be elegant and simple. I drawed a rose for the cover and a rose stem for the back and the rest of the work was mainly typographical. This project was made using Adobe In Design.",
     "cover": "images/wedding1/cover.png",
     "category": "branding",
     "tools": "ADOBE IN DESIGN",
@@ -465,7 +475,7 @@
     "id": 13,
     "title": "Self Portrait",
     "year" : "2019",
-    "description": "This was a project made for a Photography class where we had to present a self portrait. The overall look of the pictures is dark because the goal is to show the not so happy parts of me. Each gesture in a away shows an insecurity or dilema.",
+    "description": "This was a project made for a Photography class where we had to present a self portrait. The overall look of the pictures is dark because the goal is to show the not so happy parts of me. Each gesture in a away shows an insecurity or dilemma.",
     "cover": "images/selfportrait/cover.png",
     "category": "photography",
     "tools": "CANON M50 | ADOBE LIGHTROOM",
@@ -514,7 +524,7 @@
     "id": 15,
     "title": "Apropriation | Duane Michals",
     "year" : "2019",
-    "description": "This was a project made for a Photograohy class where we had to chose some of our favorite photographers and create images based on there works. These should include exact copies and adaptations. In the case of Duane Michals I chose to create two exact copies.",
+    "description": "This was a project made for a Photography class where we had to chose some of our favorite photographers and create images based on there works. These should include exact copies and adaptations. In the case of Duane Michals I chose to create two exact copies.",
     "cover": "images/duanemichals/cover.png",
     "category": "ilustration",
     "tools": "CANON M50 | ADOBE PHOTOSHOP | ADOBE LIGHTROOM",
@@ -536,7 +546,7 @@
     "id": 16,
     "title": "Apropriation | Gregory Crewdson",
     "year" : "2019",
-    "description": "This was a project made for a Photograohy class where we had to chose some of our favorite photographers and create images based on there works. These should include exact copies and adaptations. Gregory Crewdson is one of my most favorite photographers, so I chose him to work on. I tried to create one exact copy, the picture in the cover and two inspired photos.",
+    "description": "This was a project made for a Photography class where we had to chose some of our favorite photographers and create images based on there works. These should include exact copies and adaptations. Gregory Crewdson is one of my most favorite photographers, so I chose him to work on. I tried to create one exact copy, the picture in the cover and two inspired photos.",
     "cover": "images/gregorycrewdson/cover.png",
     "category": "ilustration",
     "tools": "ADOBE LIGHTROOM",
@@ -593,12 +603,12 @@
       {
         "src": "images/pictograms/1.png",
         "title": "Legend Based Pictograms",
-        "description": "Each pictogram sums a legend from the refered country through drawings. Notice that each pictograms composition is similar, to make them more coherent."
+        "description": "Each pictogram sums a legend from the referred country through drawings. Notice that each pictograms composition is similar, to make them more coherent."
       },
       {
         "src": "images/pictograms/2.png",
         "title": "National Animal Based Pictograms",
-        "description": "Each pictogram is a geometrized image of the country's national animal. Notice that, despite them all being different, they still follow the same desin principles and therefore work well together."
+        "description": "Each pictogram is a geometric image of the country's national animal. Notice that, despite them all being different, they still follow the same design principles and therefore work well together."
       }
     ],
     "videos": []
