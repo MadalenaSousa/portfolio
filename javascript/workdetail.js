@@ -1,6 +1,8 @@
 let workCover = document.querySelector(".workcover div img");
 let workTitle = document.querySelector(".workcover div h2");
 let workDescription = document.querySelector(".workcover div p");
+let workTools = document.querySelector(".madewith div");
+let workYear  = document.querySelector(".thankyou div");
 
 let workDetailBox = document.querySelector(".workDetail");
 
@@ -20,6 +22,12 @@ function createWorkDetail(workObject) {
     workCover.setAttribute("src", workObject.cover);
     workTitle.textContent = workObject.title;
     workDescription.textContent = workObject.description;
+    workTools.textContent = workObject.tools;
+
+    let yearSVG = document.createElement("img");
+    yearSVG.setAttribute("src", "images/workpage/" + workObject.year + ".svg")
+
+    workYear.appendChild(yearSVG);
 
     for(let i = 0; i < workObject.images.length; i++) {
         let row1 = document.createElement("div");

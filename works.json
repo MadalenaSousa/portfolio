@@ -6,6 +6,7 @@
     "description": "The goal of this project was to design an possible oficial app for the Porto Planetarium that fulfilled the needs of the staff, this meant that it should include a away of interacting with the public during sessions, listening to audio based on the QR codes of the initial Planetarium exibhition, seeing a calendar with the events, buy session tickets and learn more about the history of the Planetarium. This design was created not only by me but also by Mariana Caridade and Hugo Carvalho.",
     "cover": "images/planetarium/cover.png",
     "category": "uxui",
+    "tools": "FIGMA",
     "images": [
       {
         "src": "images/planetarium/1.png",
@@ -42,6 +43,7 @@
     "description": "This was a game made in the earlier stages of the pandemic, for a Digital Games class. It is a 2D platformer game that intends to joke a little bit about the pandemic situation.",
     "cover": "images/covidgame/cover.gif",
     "category": "games",
+    "tools": "UNITY | ADOBE ILLUSTRATOR",
     "images": [
       {
         "src": "images/covidgame/1.png",
@@ -69,6 +71,7 @@
     "description": "This project was in colaboration with the Construction Institute from University of Porto. The client needed an application where professinals could login and register building data according to the norms of Heritage Assessment. The App also needed to allow searching for building data, finding and adding building locations and other useful functionalities.",
     "cover": "images/match/cover.png",
     "category": "uxui",
+    "tools": "FIGMA",
     "images": [
       {
         "src": "images/match/1.png",
@@ -101,6 +104,7 @@
     "description": "This was a game made for a Digital Games class in collaboration with some colleagues. My part of this work was mainly focused on developement, level design and documentation.",
     "cover": "images/scaleofthedead/cover.gif",
     "category": "games",
+    "tools": "UNITY",
     "images": [
       {
         "src": "images/scaleofthedead/1.png",
@@ -148,6 +152,7 @@
     "description": "This project was in colaboration with the Construction Institute from University of Porto. The client needed an application where professinals could login and register building data according to the norms of Heritage Assessment. The App also needed to allow searching for building data, finding and adding building locations and other useful functionalities.",
     "cover": "images/ecospots/cover.png",
     "category": "uxui",
+    "tools": "FIGMA",
     "images": [
       {
         "src": "images/ecospots/1.png",
@@ -180,6 +185,7 @@
     "description": "This project was made for a Project class in the last year of my Bachelor's degree, it was made in collaboration with Maria Soares and Maria Figueira. In this project we were given freedon to create any interactive multimedia artifact, we chose to create a website that would make people closer through music. This project is a multiuser website that uses the Spotify API so that the users can enter and add/remove visual representations of their favorite songs, their favorite playlists and favorite artists. This creates an online artboard filled with several user's favorite music. At the end of the project, UX/UI user testing was done and we received good results.",
     "cover": "images/musictastevisualizer/cover.gif",
     "category": "uxui",
+    "tools": "SPOTIFY API | P5.JS | JAVASCRIPT | HTML | CSS",
     "images": [
       {
         "src": "images/musictastevisualizer/1.png",
@@ -222,6 +228,7 @@
     "description": "In this project we had to represent a short story making use of multimedia technologies. We chose to create an interactive website about The Joke, a short story by Anton Checkov. Our concept was to explore the story and mix it with a bit of research about the author, so we can see the story being written on the side as well as SVG animations and illustrations about it but this is mixed with written notes and pictures about Checkov's life and society context.",
     "cover": "images/abrincadeira/cover.png",
     "category": "uxui",
+    "tools": "P5.JS | JAVASCRIPT | PHP | HTML | CSS",
     "images": [
       {
         "src": "images/abrincadeira/cover.png",
@@ -288,6 +295,7 @@
     "description": "This project is a gathering of some ilustrations made around the theme of flowers (a very common theme for me, I love flowers and drawing them), with some added other elements. All the drawings were made in Adobe Illustrator.",
     "cover": "images/ilustrations1/cover.png",
     "category": "ilustration",
+    "tools": "ADOBE ILLUSTRATOR",
     "images": [
       {
         "src": "images/ilustrations1/1.png",
@@ -319,6 +327,7 @@
     "description": "This was a freelance project made for the Soup Festival in Figueira de Lorvão. The briefing included the need for posters and social media posts. The identity uses warm colors to relate to the warmth of soup and a fun and think font to appeal to the festival side and to improve visibility. This project was made using Adobe Illustrator, Premiere Pro and After Effects.",
     "cover": "images/soupfestival/cover.png",
     "category": "branding",
+    "tools": "ADOBE ILLUSTRATOR | ADOBE AFTER EFFECTS | ADOBE PREMIERE PRO",
     "images": [
       {
         "src": "images/soupfestival/1.png",
@@ -346,6 +355,7 @@
     "description": "For this project we had to chose a short story to animate. Me and my colleague Maria Figueira chose The Bucket Rider by Franz Kafka.",
     "cover": "images/cavaleirodobalde/cover.gif",
     "category": "video",
+    "tools": "ADOBE AFTER EFFECTS | ADOBE PREMIERE PRO",
     "images": [],
     "videos": [
       {
@@ -362,6 +372,7 @@
     "description": "This was a freelance project made for a wedding. The briefing included the need for a flyer or editorial element with the steps of the wedding ceremony. There were no specific requirements just that it should be elegant and simple. I drawed a rose for the cover and a rose stem for the back and the rest of the work was maily typographical. This project was made using Adobe In Design.",
     "cover": "images/wedding1/cover.png",
     "category": "branding",
+    "tools": "ADOBE IN DESIGN",
     "images": [
       {
         "src": "images/wedding1/1.png",
@@ -388,6 +399,7 @@
     "description": "This was a project made in the scope of a course about visual identities, the first branding project I ever made. It was in collaboration with Maria Soares. The briefing included creating a branding for the DAT(Design, Art and Technology) conference, which should include a website and posters.",
     "cover": "images/dat/cover.gif",
     "category": "branding",
+    "tools": "PROCESSING | P5.JS | BOOTSTRAP | JAVASCRIPT | HTML | CSS",
     "images": [
       {
         "src": "images/dat/1.png",
@@ -424,6 +436,7 @@
     "description": "This was a project made for a Typography class where we had to make a flyer that showed information about a Typographer and their most famous font. My flyer is about Stanley Morrison, the creator of Times New Roman. The front of the flyer has all the information and the back has big poster.",
     "cover": "images/flyer1/cover.png",
     "category": "branding",
+    "tools": "ADOBE IN DESIGN",
     "images": [
       {
         "src": "images/flyer1/1.png",
@@ -455,6 +468,7 @@
     "description": "This was a project made for a Photography class where we had to present a self portrait. The overall look of the pictures is dark because the goal is to show the not so happy parts of me. Each gesture in a away shows an insecurity or dilema.",
     "cover": "images/selfportrait/cover.png",
     "category": "photography",
+    "tools": "CANON M50 | ADOBE LIGHTROOM",
     "images": [
       {
         "src": "images/selfportrait/1.png",
@@ -486,6 +500,7 @@
     "description": "This was a project made for a Design class where we had to illustrate what is happiness and of course my brain went immediately to food.",
     "cover": "images/donut/cover.png",
     "category": "ilustration",
+    "tools": "ADOBE ILLUSTRATOR",
     "images": [
       {
         "src": "images/donut/cover.png",
@@ -502,6 +517,7 @@
     "description": "This was a project made for a Photograohy class where we had to chose some of our favorite photographers and create images based on there works. These should include exact copies and adaptations. In the case of Duane Michals I chose to create two exact copies.",
     "cover": "images/duanemichals/cover.png",
     "category": "ilustration",
+    "tools": "CANON M50 | ADOBE PHOTOSHOP | ADOBE LIGHTROOM",
     "images": [
       {
         "src": "images/duanemichals/1.png",
@@ -523,6 +539,7 @@
     "description": "This was a project made for a Photograohy class where we had to chose some of our favorite photographers and create images based on there works. These should include exact copies and adaptations. Gregory Crewdson is one of my most favorite photographers, so I chose him to work on. I tried to create one exact copy, the picture in the cover and two inspired photos.",
     "cover": "images/gregorycrewdson/cover.png",
     "category": "ilustration",
+    "tools": "ADOBE LIGHTROOM",
     "images": [
       {
         "src": "images/gregorycrewdson/1.png",
@@ -549,6 +566,7 @@
     "description": "These posters were made for the contest Poster for Tomorrow, in the scope of a class. The goal was to make posters that would alert to the environmental crisis.",
     "cover": "images/polution/cover.png",
     "category": "ilustration",
+    "tools": "ADOBE ILLUSTRATOR",
     "images": [
       {
         "src": "images/polution/1.png",
@@ -570,6 +588,7 @@
     "description": "In this project, we were given random countries and had to create coherent pictograms that represented them. I chose to use country legends and national animals.",
     "cover": "images/pictograms/cover.png",
     "category": "ilustration",
+    "tools": "ADOBE ILLUSTRATOR",
     "images": [
       {
         "src": "images/pictograms/1.png",
@@ -591,6 +610,7 @@
     "description": "For this project we had to recreate the game Hundreds in Processing but giving it a little twist, therefor this is the game when its elements are switched to space elements. This project was in collaboration with Maria Figueira.",
     "cover": "images/hundreds/cover.png",
     "category": "games",
+    "tools": "PROCESSING",
     "images": [],
     "videos": [
       {
@@ -607,6 +627,7 @@
     "description": "This was a project made for a Design class where we had to create a collage. I chose to do a collage fusing the portuguese revolution of April 25th and cellphones, touching upon the concept of how revolutions have gotten a very strong online component.",
     "cover": "images/revolution/cover.png",
     "category": "ilustration",
+    "tools": "ADOBE PHOTOSHOP",
     "images": [
       {
         "src": "images/revolution/cover.png",
