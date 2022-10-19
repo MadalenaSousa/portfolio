@@ -39,11 +39,12 @@ body {
 
 .nav-menu, .hamburger {
   float: right;
-  padding: 5vh 0px 5vh 0px;
+  padding: 5vh 0 5vh 0;
+  margin: 3vh;
 }
 
 .nav-menu .nav-item {
-  padding: 0px 20px 0px 20px;
+  padding: 0 20px 0 20px;
   text-decoration: none;
   color: black;
 }
@@ -52,6 +53,14 @@ body {
   float: left;
   padding: 3vh 0 3vh 0;
   width: 15%;
+}
+
+.logo img {
+  transition: all 0.2s ease-in-out;
+}
+
+.logo img:hover {
+  transform: scale(1.2) rotate(-3deg);
 }
 
 @media (min-width: 800px) and (max-width: 1200px) {
