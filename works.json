@@ -37,14 +37,15 @@
         "src": "images/personalbranding/6.png",
         "title": "",
         "description": ""
-      },
+      }
+    ],
+    "videos": [
       {
-        "src": "images/personalbranding/7.gif",
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/personalbranding/demo.mp4",
         "title": "",
         "description": ""
       }
-    ],
-    "videos": []
+    ]
   },
   {
     "id": 1,
