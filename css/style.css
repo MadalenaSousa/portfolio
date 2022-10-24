@@ -20,7 +20,7 @@ body {
 }
 
 .ms path:nth-child(1) {
-  animation: m-anim1 2s linear  infinite;
+  animation: m-anim1 1s linear  infinite;
 }
 
 @keyframes m-anim1 {
@@ -33,7 +33,7 @@ body {
 }
 
 .ms path:nth-child(3) {
-  animation: m-anime2 2s linear  infinite;
+  animation: m-anime2 1s linear  infinite;
 }
 
 @keyframes m-anime2 {
@@ -46,7 +46,7 @@ body {
 }
 
 .ms path:nth-child(2) {
-  animation: m-anim3 2s linear  infinite;
+  animation: m-anim3 1s linear  infinite;
 }
 
 @keyframes m-anim3 {
@@ -59,7 +59,7 @@ body {
 }
 
 .ms path:nth-child(4) {
-  animation: m-anim4 2s linear  infinite;
+  animation: m-anim4 1s linear  infinite;
 }
 
 @keyframes m-anim4 {
