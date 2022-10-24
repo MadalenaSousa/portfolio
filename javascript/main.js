@@ -20,3 +20,13 @@ for(let i = 0; i < navItens.length; i++) {
     navSvg[i].classList.remove("hovereffect");
   });
 }
+
+let logoSVG = document.querySelector(".logo a svg")
+
+logoSVG.addEventListener("mouseenter", function () {
+  logoSVG.classList.add("ms");
+})
+
+logoSVG.addEventListener("mouseleave", function () {
+  logoSVG.classList.remove("ms");
+})
