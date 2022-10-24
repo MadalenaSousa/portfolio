@@ -117,9 +117,9 @@
     "title": "Personal Branding",
     "year" : "2022",
     "description": "This project presents my personal branding. It tries to incorporate many of the things that I like and that serve as principles of my design works and create an image that people can recognize my and my work by.",
-    "cover": "images/personalbranding/cover.gif",
+    "cover": "images/personalbranding/cover.png",
     "category": "branding",
-    "tools": "CLIP STUDIO PAINT | ADOBE PREMIERE PRO | ADOBE AFTER EFFECTS | ADOBE PHOTOSHOP | FIGMA",
+    "tools": "ADOBE PREMIERE PRO | ADOBE PHOTOSHOP | FIGMA | HTML | CSS | JAVASCRIPT",
     "images": [
       {
         "src": "images/personalbranding/1.png",
@@ -147,18 +147,17 @@
         "description": ""
       },
       {
-        "src": "images/personalbranding/6.png",
+        "src": "images/personalbranding/6.gif",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/personalbranding/7.png",
         "title": "",
         "description": ""
       }
     ],
-    "videos": [
-      {
-        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/personalbranding/demo.mp4",
-        "title": "",
-        "description": ""
-      }
-    ]
+    "videos": []
   },
   {
     "id": 4,
