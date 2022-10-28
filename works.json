@@ -1,42 +1,77 @@
 [
   {
     "id": 0,
-    "title": "Planetarium App Design",
+    "title": "Planetarium App Design: Case Study",
     "year" : "2021",
-    "description": "The goal of this project was to design an possible official app for the Porto Planetarium that fulfilled the needs of the staff, this meant that it should include a away of interacting with the public during sessions, listening to audio based on the QR codes of the initial Planetarium exhibition, seeing a calendar with the events, buy session tickets and learn more about the history of the Planetarium. This design was created not only by me but also by Mariana Caridade and Hugo Carvalho. The prototype can be tested in: https://bit.ly/3Dafni7",
+    "description": "The Planetarium App Design was made in collaboration with the Porto Planetarium. The goal of the project was to create an app design for an official Planetarium App that would improve the visitor experience. The prototype can be tested in: https://bit.ly/3Dafni7",
     "cover": "images/planetarium/cover.png",
     "category": "uxui",
     "tools": "FIGMA",
     "images": [
       {
         "src": "images/planetarium/1.png",
-        "title": "Design Choices",
-        "description": "Color Palette and Fonts"
+        "title": "",
+        "description": ""
       },
       {
         "src": "images/planetarium/2.png",
-        "title": "Process",
-        "description": "Steps of the process and screenshots of the design document."
+        "title": "",
+        "description": ""
       },
       {
         "src": "images/planetarium/3.png",
-        "title": "Sample Screens",
-        "description": "Landing page, homepage, audio guide page and session quiz page, respectively from left to right"
+        "title": "",
+        "description": ""
       },
       {
-        "src": "images/planetarium/4.gif",
+        "src": "images/planetarium/4.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/planetarium/5.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/planetarium/6.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/planetarium/7.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/planetarium/8.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/planetarium/9.gif",
         "title": "Login and Calender",
         "description": "The user can login to the app and check the calender and Planetarium events."
       },
       {
-        "src": "images/planetarium/5.gif",
+        "src": "images/planetarium/10.gif",
         "title": "Quiz",
         "description": "The user can use the app to participate in Planetarium sessions, through a quiz like form."
       },
       {
-        "src": "images/planetarium/6.gif",
+        "src": "images/planetarium/11.gif",
         "title": "Audio and History",
         "description": "The user can listen to the audio guide through the QR Codes as well as check historical information about the Planetarium."
+      },
+      {
+        "src": "images/planetarium/12.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/planetarium/13.png",
+        "title": "",
+        "description": ""
       }
     ],
     "videos": []
