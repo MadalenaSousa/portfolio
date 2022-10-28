@@ -19,6 +19,21 @@ body {
   background-size: 100% auto;*/
 }
 
+.top-button {
+  position: fixed;
+  right: 2%;
+  bottom: 2%;
+  width: auto;
+  height: 50px;
+  -webkit-transition: transform 0.1s ease-in-out;
+  transition: transform 0.1s ease-in-out;
+  display: none;
+}
+
+.top-button:hover {
+  transform: scale(1.1);
+}
+
 .ms path:nth-child(1) {
   animation: m-anim1 3s linear  infinite;
 }
