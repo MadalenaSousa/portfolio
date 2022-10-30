@@ -87,18 +87,18 @@
     "images": [
       {
         "src": "images/match/1.png",
-        "title": "Design Choices",
-        "description": "Color Palette, Fonts and Concept"
+        "title": "",
+        "description": ""
       },
       {
         "src": "images/match/2.png",
-        "title": "Logo",
-        "description": "Logo versions and concepts."
+        "title": "",
+        "description": ""
       },
       {
         "src": "images/match/3.png",
-        "title": "Sample Screens",
-        "description": "Search Page, Landing Page and Building Map Page"
+        "title": "",
+        "description": ""
       }
     ],
     "videos": [
@@ -113,30 +113,50 @@
     "id": 2,
     "title": "ECOSPOTS",
     "year" : "2020",
-    "description": "This project's goal was to make sustainability more attractive to people. To do this, ECOSPOTS treats each good action towards the environment as a kind of game elements. Each time you do a good action, you get points. The user can then have friends and compare their points, bringing a competitive element to sustainable actions. This project was in collaboration with Maria Soares. The prototype can be tested in: https://bit.ly/3zh7Ah6",
+    "description": "This project's goal was to make sustainability more attractive to people. To do this, ECOSPOTS treats each good action towards the environment as a kind of game elements. Each time you do a good action, you get points. The user can then have friends and compare their points, bringing a competitive element to sustainable actions. The prototype can be tested in: https://bit.ly/3zh7Ah6",
     "cover": "images/ecospots/cover.png",
     "category": "uxui",
     "tools": "FIGMA",
     "images": [
       {
         "src": "images/ecospots/1.png",
-        "title": "Design Choices",
-        "description": "Color Palette, Fonts and Concept"
+        "title": "",
+        "description": ""
       },
       {
         "src": "images/ecospots/2.png",
-        "title": "Process",
-        "description": "Steps of the process and screenshots of the design document."
+        "title": "",
+        "description": ""
       },
       {
         "src": "images/ecospots/3.png",
-        "title": "Sample Screens",
-        "description": "Landing Page, Homepage, Profile and Map Page"
+        "title": "",
+        "description": ""
       },
       {
-        "src": "images/ecospots/4.gif",
-        "title": "App Interactions",
-        "description": "Scrolling in homepage and adding a new good action,"
+        "src": "images/ecospots/4.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/ecospots/5.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/ecospots/6.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/ecospots/7.gif",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/ecospots/8.png",
+        "title": "",
+        "description": ""
       }
     ],
     "videos": [
@@ -149,45 +169,35 @@
   },
   {
     "id": 3,
-    "title": "Personal Branding",
-    "year" : "2022",
-    "description": "This project presents my personal branding. It tries to incorporate many of the things that I like and that serve as principles of my design works and create an image that people can recognize my and my work by.",
-    "cover": "images/personalbranding/cover.gif",
+    "title": "Design, Art and Technology Conference Identity",
+    "year" : "2018",
+    "description": "This was a project made in the scope of a course about visual identities, the first branding project I ever made. It was in collaboration with Maria Soares. The briefing included creating a branding for the DAT(Design, Art and Technology) conference, which should include a website and posters.",
+    "cover": "images/dat/cover.gif",
     "category": "branding",
-    "tools": "ADOBE PREMIERE PRO | ADOBE PHOTOSHOP | FIGMA | HTML | CSS | JAVASCRIPT",
+    "tools": "PROCESSING | P5.JS | BOOTSTRAP | JAVASCRIPT | HTML | CSS",
     "images": [
       {
-        "src": "images/personalbranding/1.png",
+        "src": "images/dat/1.png",
         "title": "",
         "description": ""
       },
       {
-        "src": "images/personalbranding/2.png",
+        "src": "images/dat/2.png",
         "title": "",
         "description": ""
       },
       {
-        "src": "images/personalbranding/3.png",
+        "src": "images/dat/3.png",
         "title": "",
         "description": ""
       },
       {
-        "src": "images/personalbranding/4.png",
+        "src": "images/dat/4.png",
         "title": "",
         "description": ""
       },
       {
-        "src": "images/personalbranding/5.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/personalbranding/6.gif",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/personalbranding/7.png",
+        "src": "images/dat/5.png",
         "title": "",
         "description": ""
       }
@@ -196,31 +206,70 @@
   },
   {
     "id": 4,
-    "title": "2020 Surviving a Pandemic",
-    "year" : "2020",
-    "description": "This was a game made in the earlier stages of the pandemic, for a Digital Games class. It is a 2D platformer game that intends to joke a little bit about the pandemic situation.",
-    "cover": "images/covidgame/cover.gif",
-    "category": "games",
-    "tools": "UNITY | ADOBE ILLUSTRATOR",
+    "title": "The Joke | Interactive Website",
+    "year" : "2019",
+    "description": "In this project we had to represent a short story making use of multimedia technologies. We chose to create an interactive website about The Joke, a short story by Anton Checkov. Our concept was to explore the story and mix it with a bit of research about the author, so we can see the story being written on the side as well as SVG animations and illustrations about it but this is mixed with written notes and pictures about Checkov's life and society context.",
+    "cover": "images/abrincadeira/cover.png",
+    "category": "uxui",
+    "tools": "P5.JS | JAVASCRIPT | PHP | HTML | CSS",
     "images": [
       {
-        "src": "images/covidgame/1.png",
+        "src": "images/abrincadeira/cover.png",
         "title": "",
         "description": ""
       },
       {
-        "src": "images/covidgame/2.png",
+        "src": "images/abrincadeira/1.gif",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/abrincadeira/2.gif",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/abrincadeira/3.gif",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/abrincadeira/4.gif",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/abrincadeira/5.gif",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/abrincadeira/6.gif",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/abrincadeira/7.gif",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/abrincadeira/8.gif",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/abrincadeira/9.gif",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/abrincadeira/10.png",
         "title": "",
         "description": ""
       }
     ],
-    "videos": [
-      {
-        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/covidgame/demo.mp4",
-        "title": "",
-        "description": ""
-      }
-    ]
+    "videos": []
   },
   {
     "id": 5,
@@ -315,102 +364,73 @@
   },
   {
     "id": 7,
-    "title": "The Joke | Interactive Website",
-    "year" : "2019",
-    "description": "In this project we had to represent a short story making use of multimedia technologies. We chose to create an interactive website about The Joke, a short story by Anton Checkov. Our concept was to explore the story and mix it with a bit of research about the author, so we can see the story being written on the side as well as SVG animations and illustrations about it but this is mixed with written notes and pictures about Checkov's life and society context.",
-    "cover": "images/abrincadeira/cover.png",
-    "category": "uxui",
-    "tools": "P5.JS | JAVASCRIPT | PHP | HTML | CSS",
+    "title": "2020 Surviving a Pandemic",
+    "year" : "2020",
+    "description": "This was a game made in the earlier stages of the pandemic, for a Digital Games class. It is a 2D platformer game that intends to joke a little bit about the pandemic situation.",
+    "cover": "images/covidgame/cover.gif",
+    "category": "games",
+    "tools": "UNITY | ADOBE ILLUSTRATOR",
     "images": [
       {
-        "src": "images/abrincadeira/cover.png",
+        "src": "images/covidgame/1.png",
         "title": "",
         "description": ""
       },
       {
-        "src": "images/abrincadeira/1.gif",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/abrincadeira/2.gif",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/abrincadeira/3.gif",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/abrincadeira/4.gif",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/abrincadeira/5.gif",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/abrincadeira/6.gif",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/abrincadeira/7.gif",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/abrincadeira/8.gif",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/abrincadeira/9.gif",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/abrincadeira/10.png",
+        "src": "images/covidgame/2.png",
         "title": "",
         "description": ""
       }
     ],
-    "videos": []
+    "videos": [
+      {
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/covidgame/demo.mp4",
+        "title": "",
+        "description": ""
+      }
+    ]
   },
   {
     "id": 8,
-    "title": "Design, Art and Technology Conference Identity",
-    "year" : "2018",
-    "description": "This was a project made in the scope of a course about visual identities, the first branding project I ever made. It was in collaboration with Maria Soares. The briefing included creating a branding for the DAT(Design, Art and Technology) conference, which should include a website and posters.",
-    "cover": "images/dat/cover.gif",
+    "title": "Personal Branding",
+    "year" : "2022",
+    "description": "This project presents my personal branding. It tries to incorporate many of the things that I like and that serve as principles of my design works and create an image that people can recognize my and my work by.",
+    "cover": "images/personalbranding/cover.gif",
     "category": "branding",
-    "tools": "PROCESSING | P5.JS | BOOTSTRAP | JAVASCRIPT | HTML | CSS",
+    "tools": "ADOBE PREMIERE PRO | ADOBE PHOTOSHOP | FIGMA | HTML | CSS | JAVASCRIPT",
     "images": [
       {
-        "src": "images/dat/1.png",
+        "src": "images/personalbranding/1.png",
         "title": "",
         "description": ""
       },
       {
-        "src": "images/dat/2.png",
+        "src": "images/personalbranding/2.png",
         "title": "",
         "description": ""
       },
       {
-        "src": "images/dat/3.png",
+        "src": "images/personalbranding/3.png",
         "title": "",
         "description": ""
       },
       {
-        "src": "images/dat/4.png",
+        "src": "images/personalbranding/4.png",
         "title": "",
         "description": ""
       },
       {
-        "src": "images/dat/5.png",
+        "src": "images/personalbranding/5.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/personalbranding/6.gif",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/personalbranding/7.png",
         "title": "",
         "description": ""
       }
@@ -419,6 +439,34 @@
   },
   {
     "id": 9,
+    "title": "Promotional Video | Existências",
+    "year" : "2019",
+    "description": "This project was made for the association Existências, an association that supports people with drug addictions. This association needed a promotional video that would show what they actually do and how they try to give a better life and minimize risks for people with drug addictions without them having to stop taking drugs.",
+    "cover": "images/existencias/cover.gif",
+    "category": "video",
+    "tools": "CANON M50 | ADOBE PREMIERE PRO",
+    "images": [
+      {
+        "src": "images/existencias/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/existencias/2.png",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "videos": [
+      {
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/existencias/demo.mp4",
+        "title": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
     "title": "Illustrations (Pack 1)",
     "year" : "2020",
     "description": "This project is a gathering of some illustrations made around the theme of flowers (a very common theme for me, I love flowers and drawing them), with some added other elements. All the drawings were made in Adobe Illustrator.",
@@ -450,7 +498,7 @@
     "videos": []
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "Soup Festival (Festival das Sopas)",
     "year" : "2019",
     "description": "This was a freelance project made for the Soup Festival in Figueira de Lorvão. The briefing included the need for posters and social media posts. The identity uses warm colors to relate to the warmth of soup and a fun and think font to appeal to the festival side and to improve visibility. This project was made using Adobe Illustrator, Premiere Pro and After Effects.",
@@ -478,7 +526,7 @@
     ]
   },
   {
-    "id": 11,
+    "id": 12,
     "title": "The Bucket Rider Animation",
     "year" : "2019",
     "description": "For this project we had to chose a short story to animate. Me and my colleague Maria Figueira chose The Bucket Rider by Franz Kafka.",
@@ -495,7 +543,7 @@
     ]
   },
   {
-    "id": 12,
+    "id": 13,
     "title": "Wedding Guide",
     "year" : "2019",
     "description": "This was a freelance project made for a wedding. The briefing included the need for a flyer or editorial element with the steps of the wedding ceremony. There were no specific requirements just that it should be elegant and simple. I drawed a rose for the cover and a rose stem for the back and the rest of the work was mainly typographical. This project was made using Adobe In Design.",
@@ -522,7 +570,7 @@
     "videos": []
   },
   {
-    "id": 13,
+    "id": 14,
     "title": "Stanley Morrison Flyer",
     "year" : "2018",
     "description": "This was a project made for a Typography class where we had to make a flyer that showed information about a Typographer and their most famous font. My flyer is about Stanley Morrison, the creator of Times New Roman. The front of the flyer has all the information and the back has big poster.",
@@ -554,7 +602,7 @@
     "videos": []
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "Self Portrait",
     "year" : "2019",
     "description": "This was a project made for a Photography class where we had to present a self portrait. The overall look of the pictures is dark because the goal is to show the not so happy parts of me. Each gesture in a away shows an insecurity or dilemma.",
@@ -586,7 +634,7 @@
     "videos": []
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "What is Happiness?",
     "year" : "2018",
     "description": "This was a project made for a Design class where we had to illustrate what is happiness and of course my brain went immediately to food.",
@@ -603,7 +651,7 @@
     "videos": []
   },
   {
-    "id": 16,
+    "id": 17,
     "title": "Apropriation | Duane Michals",
     "year" : "2019",
     "description": "This was a project made for a Photography class where we had to chose some of our favorite photographers and create images based on there works. These should include exact copies and adaptations. In the case of Duane Michals I chose to create two exact copies.",
@@ -625,7 +673,7 @@
     "videos": []
   },
   {
-    "id": 17,
+    "id": 18,
     "title": "Apropriation | Gregory Crewdson",
     "year" : "2019",
     "description": "This was a project made for a Photography class where we had to chose some of our favorite photographers and create images based on there works. These should include exact copies and adaptations. Gregory Crewdson is one of my most favorite photographers, so I chose him to work on. I tried to create one exact copy, the picture in the cover and two inspired photos.",
@@ -652,7 +700,7 @@
     "videos": []
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "Poster for Tomorrow",
     "year" : "2018",
     "description": "These posters were made for the contest Poster for Tomorrow, in the scope of a class. The goal was to make posters that would alert to the environmental crisis.",
@@ -674,7 +722,7 @@
     "videos": []
   },
   {
-    "id": 19,
+    "id": 20,
     "title": "Country Pictograms",
     "year" : "2018",
     "description": "In this project, we were given random countries and had to create coherent pictograms that represented them. I chose to use country legends and national animals.",
@@ -696,7 +744,7 @@
     "videos": []
   },
   {
-    "id": 20,
+    "id": 21,
     "title": "Hundreds 2.0 | In the Outer Space",
     "year" : "2017",
     "description": "For this project we had to recreate the game Hundreds in Processing but giving it a little twist, therefor this is the game when its elements are switched to space elements. This project was in collaboration with Maria Figueira.",
@@ -713,7 +761,7 @@
     ]
   },
   {
-    "id": 21,
+    "id": 22,
     "title": "Revolution",
     "year" : "2018",
     "description": "This was a project made for a Design class where we had to create a collage. I chose to do a collage fusing the portuguese revolution of April 25th and cellphones, touching upon the concept of how revolutions have gotten a very strong online component.",
@@ -730,7 +778,7 @@
     "videos": []
   },
   {
-    "id": 22,
+    "id": 23,
     "title": "Koi Fish | First 3D Project",
     "year" : 2021,
     "description": "My first 3D project was done for a class, we had to create any short animated scene in 3D. I chose to do two koi fish swiming around the moon's reflection, inspired in a scene from Avatar: The Last Airbender.",
@@ -741,34 +789,6 @@
     "videos": [
       {
         "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/koifish/demo.mp4",
-        "title": "",
-        "description": ""
-      }
-    ]
-  },
-  {
-    "id": 23,
-    "title": "Promotional Video | Existências",
-    "year" : "2019",
-    "description": "This project was made for the association Existências, an association that supports people with drug addictions. This association needed a promotional video that would show what they actually do and how they try to give a better life and minimize risks for people with drug addictions without them having to stop taking drugs.",
-    "cover": "images/existencias/cover.gif",
-    "category": "video",
-    "tools": "CANON M50 | ADOBE PREMIERE PRO",
-    "images": [
-      {
-        "src": "images/existencias/1.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/existencias/2.png",
-        "title": "",
-        "description": ""
-      }
-    ],
-    "videos": [
-      {
-        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/existencias/demo.mp4",
         "title": "",
         "description": ""
       }
