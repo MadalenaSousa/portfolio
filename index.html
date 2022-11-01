@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 
 <head>
     <!-- Basic Page Needs
@@ -15,7 +15,7 @@
 
     <!-- FONT
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
     <!-- CSS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -25,122 +25,80 @@
 
     <!-- Favicon
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="icon" type="image/png" href="images/favicon2.png">
+    <link rel="icon" type="image/png" href="images/favicon.png">
 
     <!-- Libraries
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <script src="javascript/p5.min.js"></script>
+    <script src="javascript/starclass.js"></script>
+    <script src="javascript/stars.js"></script>
 </head>
 
 <body>
-<div class="container"> <!-- Begin Container -->
     <header>
         <nav class="row navBar">
             <div class="twelve columns">
-                <div class="logo">
-                    <a href="index.html">
-                        <!--img src="images/logo.png" alt=""-->
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 550">
-                            <defs>
-                                <style>.cls-1{fill:#b6e2e0;}.cls-2{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:3px;}</style>
-                            </defs>
-                            <g id="Layer_2" data-name="Layer 2">
-                                <g id="Layer_1-2" data-name="Layer 1">
-                                    <path class="cls-1" d="M9.51,418.17C-34.81,397,86.45-9.44,154.51.17c57.59,8.13,38.82,308.81,102,317,65.32,8.47,112.29-309.54,209-311,100.15-1.51,201.39,337.31,146,372-36,22.55-116-97.46-195-70-77.67,27-75.31,168.88-126,172-50.43,3.1-69.41-136.32-144-146C79.7,325.5,32.61,429.21,9.51,418.17Z"/>
-                                    <path class="cls-1" d="M1021.23,94.4C1026.7,57.09,944.13-2,862.44,1.32,771.1,5.07,685.1,86.74,689,154.63c4.67,80.4,134,115.86,121.47,171.54-9.66,43.09-92.64,46.61-93,80-.3,27.57,56,51.93,95.65,61.48,100.84,24.29,234.41-13.44,244.57-72.09,13.36-77.15-194.24-147.33-176.22-216.39C894.78,128.31,1014.91,137.45,1021.23,94.4Z"/>
-                                    <path class="cls-2 outline" d="M53.51,478.17c-44.32-21.19,76.94-427.61,145-418,57.59,8.13,38.82,308.81,102,317,65.32,8.47,112.29-309.54,209-311,100.15-1.51,201.39,337.31,146,372-36,22.55-116-97.46-195-70-77.67,27-75.31,168.88-126,172-50.43,3.1-69.41-136.32-144-146C123.7,385.5,76.61,489.21,53.51,478.17Z"/>
-                                    <path class="cls-2 outline" d="M1065.23,154.4c5.47-37.31-77.1-96.44-158.79-93.08C815.1,65.07,729.1,146.74,733,214.63c4.67,80.4,134,115.86,121.47,171.54-9.66,43.09-92.64,46.61-93,80-.3,27.57,56,51.93,95.65,61.48,100.84,24.29,234.41-13.44,244.57-72.09,13.36-77.15-194.24-147.33-176.22-216.39C938.78,188.31,1058.91,197.45,1065.23,154.4Z"/>
-                                </g>
-                            </g>
-                        </svg>
-                    </a>
-                </div>
-
                 <div class="nav-menu">
-                    <a class="nav-item" href="portfolio.html">
-                        Work
-                        <svg class="displayNone navHover" width="80" height="50" viewBox="0 0 102 56" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M3.68198 9.72892C25.7791 7.27259 47.3001 0.270245 69.7774 1.06205C80.5623 1.44197 96.8897 6.35046 100.339 18.2353C106.832 40.6117 63.7206 50.7466 49.4836 53.3843C41.8068 54.8065 -2.28583 59.6997 1.19539 40.5445C3.29039 29.0168 19.7549 22.6747 29.671 19.8403" stroke="black" stroke-linecap="round"/>
-                        </svg>
-                    </a>
-                    <a class="nav-item" href="about.html">
-                        About
-                        <svg class="displayNone navHover" width="80" height="50" viewBox="0 0 102 56" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M3.68198 9.72892C25.7791 7.27259 47.3001 0.270245 69.7774 1.06205C80.5623 1.44197 96.8897 6.35046 100.339 18.2353C106.832 40.6117 63.7206 50.7466 49.4836 53.3843C41.8068 54.8065 -2.28583 59.6997 1.19539 40.5445C3.29039 29.0168 19.7549 22.6747 29.671 19.8403" stroke="black" stroke-linecap="round"/>
-                        </svg>
-                    </a>
-                    <a class="nav-item" href="contact.html">
-                        Contact
-                        <svg class="displayNone navHover" width="80" height="50" viewBox="0 0 102 56" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M3.68198 9.72892C25.7791 7.27259 47.3001 0.270245 69.7774 1.06205C80.5623 1.44197 96.8897 6.35046 100.339 18.2353C106.832 40.6117 63.7206 50.7466 49.4836 53.3843C41.8068 54.8065 -2.28583 59.6997 1.19539 40.5445C3.29039 29.0168 19.7549 22.6747 29.671 19.8403" stroke="black" stroke-linecap="round"/>
-                        </svg>
-                    </a>
-                    <a class="nav-item" href="https://www.etsy.com/shop/MadalenaSousa" target="_blank">
-                        Shop
-                        <svg class="displayNone navHover" width="80" height="50" viewBox="0 0 102 56" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M3.68198 9.72892C25.7791 7.27259 47.3001 0.270245 69.7774 1.06205C80.5623 1.44197 96.8897 6.35046 100.339 18.2353C106.832 40.6117 63.7206 50.7466 49.4836 53.3843C41.8068 54.8065 -2.28583 59.6997 1.19539 40.5445C3.29039 29.0168 19.7549 22.6747 29.671 19.8403" stroke="black" stroke-linecap="round"/>
-                        </svg>
-                    </a>
+                    <div class="nav-content">
+                        <a class="nav-item" href="portfolio.html">
+                            my work
+                            <svg class="displayNone navHover" width="80" height="50" viewBox="0 0 102 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M3.68198 9.72892C25.7791 7.27259 47.3001 0.270245 69.7774 1.06205C80.5623 1.44197 96.8897 6.35046 100.339 18.2353C106.832 40.6117 63.7206 50.7466 49.4836 53.3843C41.8068 54.8065 -2.28583 59.6997 1.19539 40.5445C3.29039 29.0168 19.7549 22.6747 29.671 19.8403" stroke="black" stroke-linecap="round"/>
+                            </svg>
+                        </a>
+                        <a class="nav-item" href="about.html">
+                            about
+                            <svg class="displayNone navHover" width="80" height="50" viewBox="0 0 102 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M3.68198 9.72892C25.7791 7.27259 47.3001 0.270245 69.7774 1.06205C80.5623 1.44197 96.8897 6.35046 100.339 18.2353C106.832 40.6117 63.7206 50.7466 49.4836 53.3843C41.8068 54.8065 -2.28583 59.6997 1.19539 40.5445C3.29039 29.0168 19.7549 22.6747 29.671 19.8403" stroke="black" stroke-linecap="round"/>
+                            </svg>
+                        </a>
+                        <a class="nav-item" href="contact.html">
+                            let's talk
+                            <svg class="displayNone navHover" width="80" height="50" viewBox="0 0 102 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M3.68198 9.72892C25.7791 7.27259 47.3001 0.270245 69.7774 1.06205C80.5623 1.44197 96.8897 6.35046 100.339 18.2353C106.832 40.6117 63.7206 50.7466 49.4836 53.3843C41.8068 54.8065 -2.28583 59.6997 1.19539 40.5445C3.29039 29.0168 19.7549 22.6747 29.671 19.8403" stroke="black" stroke-linecap="round"/>
+                            </svg>
+                        </a>
+                        <a class="nav-item" href="index.html" target="_blank">
+                            star sky
+                            <svg class="displayNone navHover" width="80" height="50" viewBox="0 0 102 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M3.68198 9.72892C25.7791 7.27259 47.3001 0.270245 69.7774 1.06205C80.5623 1.44197 96.8897 6.35046 100.339 18.2353C106.832 40.6117 63.7206 50.7466 49.4836 53.3843C41.8068 54.8065 -2.28583 59.6997 1.19539 40.5445C3.29039 29.0168 19.7549 22.6747 29.671 19.8403" stroke="black" stroke-linecap="round"/>
+                            </svg>
+                        </a>
+                        <a class="nav-item" href="https://www.etsy.com/shop/MadalenaSousa" target="_blank">
+                            etsy shop
+                            <svg class="displayNone navHover" width="80" height="50" viewBox="0 0 102 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M3.68198 9.72892C25.7791 7.27259 47.3001 0.270245 69.7774 1.06205C80.5623 1.44197 96.8897 6.35046 100.339 18.2353C106.832 40.6117 63.7206 50.7466 49.4836 53.3843C41.8068 54.8065 -2.28583 59.6997 1.19539 40.5445C3.29039 29.0168 19.7549 22.6747 29.671 19.8403" stroke="black" stroke-linecap="round"/>
+                            </svg>
+                        </a>
+                    </div>
                 </div>
 
                 <div class="hamburger">
-                    <span class="bar"></span>
-                    <span class="bar"></span>
-                    <span class="bar"></span>
+                    <svg width="40" height="58" viewBox="0 0 40 58" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M19.8167 0C20.0774 4.82379 20.2078 9.51722 20.3381 14.341C20.4685 19.1648 20.4685 23.8582 20.4685 28.682C20.4685 33.5058 20.4685 38.1992 20.3381 43.023L20.2078 50.1935C20.0774 52.5402 20.0774 55.0173 19.947 57.364C19.8167 55.0173 19.6863 52.5402 19.6863 50.1935L19.5559 43.023C19.4255 38.1992 19.4255 33.5058 19.4255 28.682C19.4255 23.8582 19.4255 19.1648 19.5559 14.341C19.4255 9.51722 19.5559 4.82379 19.8167 0Z" fill="black"/>
+                        <path d="M0 28.682C3.25932 28.4213 6.64901 28.2909 9.90833 28.1606C13.1677 28.0302 16.5573 28.0302 19.8167 28.0302C23.076 28.0302 26.4657 28.0302 29.725 28.1606L34.6792 28.2909C36.374 28.4213 37.9385 28.4213 39.6333 28.5517C37.9385 28.682 36.374 28.8124 34.6792 28.8124L29.725 28.9428C26.4657 29.0732 23.076 29.0732 19.8167 29.0732C16.5573 29.0732 13.1677 29.0732 9.90833 28.9428C6.64901 29.0732 3.25932 28.9428 0 28.682Z" fill="black"/>
+                        <path d="M8.86523 17.6003C12.9068 20.8596 16.6876 24.5101 20.338 28.1605C23.9885 31.8109 27.6389 35.5918 30.8982 39.6333C26.8567 36.374 23.0759 32.7236 19.4254 29.0731C15.775 25.4227 12.1246 21.6419 8.86523 17.6003Z" fill="black"/>
+                        <path d="M30.8982 17.6003C27.6389 21.6419 23.9885 25.4227 20.338 29.0731C16.6876 32.7236 12.9068 36.374 8.86523 39.6333C12.1246 35.5918 15.775 31.8109 19.4254 28.1605C23.0759 24.5101 26.8567 20.99 30.8982 17.6003Z" fill="black"/>
+                    </svg>
+                    <div>MENU</div>
                 </div>
 
             </div>
         </nav>
     </header>
-
-    <div class="row space-large"></div>
-
-    <div class="row space-mid"></div>
-
-    <div class="row">
-        <div class="twelve columns">
-
+    <main>
+        <div class="title">
+            hi there! i'm madalena, <br>
+            welcome to my web space
         </div>
-    </div>
-
-    <div class="row space-large"></div>
-
-</div> <!-- End Container -->
-
-<div class="landingtext">
-    <h4>Hey!</h4>
-    <h1>I'm Madalena Sousa</h1>
-    <h4>Welcome to my little web space!</h4>
-</div>
-
-<ul id="elements">
-    <li>UX/UI DESIGN</li>
-    <li>GRAPHIC & MOTION DESIGN</li>
-    <li>GAME DESIGN</li>
-    <li>WEB DEVELOPMENT</li>
-    <li>ILLUSTRATION</li>
-</ul>
-
-<svg class="blob1" viewBox="0 -300 800 500" xmlns="http://www.w3.org/2000/svg">
-    <g>
-        <path d="M120,-157.6C152.7,-141.5,174.3,-102.6,194.8,-58.8C215.3,-14.9,234.6,33.8,228.4,80.8C222.2,127.8,190.4,173.1,148.1,184C105.8,195,52.9,171.5,-2.4,174.8C-57.8,178.2,-115.6,208.4,-137.5,190.9C-159.3,173.3,-145.3,108,-153,56.3C-160.7,4.6,-190.2,-33.4,-178.3,-54.2C-166.4,-75.1,-113.2,-78.8,-76.6,-93.6C-40,-108.3,-20,-134.2,11.9,-150.5C43.7,-166.8,87.4,-173.6,120,-157.6Z" fill="#E1B492" />
-    </g>
-</svg>
-
-<svg class="blob2" viewBox="-500 -300 500 400" xmlns="http://www.w3.org/2000/svg">
-    <g>
-        <path d="M67.8,-97.1C87.8,-78.8,103.8,-58.9,117.4,-34.1C130.9,-9.4,142,20.2,139.5,50.7C137,81.2,120.8,112.6,95.3,150.1C69.8,187.7,34.9,231.3,3.3,226.8C-28.2,222.2,-56.4,169.3,-91.6,134.9C-126.8,100.5,-169,84.6,-179.6,57.1C-190.2,29.7,-169.3,-9.3,-155.2,-49.7C-141,-90.1,-133.7,-132,-109,-148.8C-84.2,-165.6,-42.1,-157.3,-9.1,-144.8C23.9,-132.2,47.8,-115.5,67.8,-97.1Z" fill="#E3D8CD" />
-    </g>
-</svg>
-
-<svg class="blob3" viewBox="0 0 800 500" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" id="blobSvg">
-    <g transform="translate(166.12477493286133, -25.852737426757812)">
-        <path class="blob" d="M454,318Q413,386,347.5,410Q282,434,209,440.5Q136,447,81,389Q26,331,31,251.5Q36,172,102,140Q168,108,223.5,97.5Q279,87,338.5,106.5Q398,126,446.5,188Q495,250,454,318Z" fill="none" stroke-width="0.5px" stroke="#000000"></path>
-    </g>
-</svg>
+        <div class="footnote">
+            <img src="images/areas.svg" alt="">
+        </div>
+    </main>
 
 <!-- Scripts
 –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-<script src="javascript/blob.js" type="module"></script>
+
 <script src="javascript/main.js" type="module"></script>
 
 <!-- End Document
