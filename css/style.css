@@ -220,16 +220,17 @@ canvas {
 
 /*ABOUT*/
 
-.about-cover {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.alignRight {
+  text-align: right;
 }
 
-@media (max-width: 800px) {
-  .about-cover {
-    display: block;
-  }
+.software div {
+  margin-bottom: 1%;
+}
+
+.profilepic img {
+  height: 100%;
+  width: auto;
 }
 
 /*WORKS*/
