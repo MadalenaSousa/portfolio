@@ -1,6 +1,7 @@
 let star = [];
 let starCount;
 let newStar;
+let followStar;
 
 function setup() {
     createCanvas(windowWidth, windowHeight);
@@ -10,6 +11,8 @@ function setup() {
     for(let i = 0; i < starCount; i++) {
         star[i] = new Star(random(width), random(height));
     }
+
+    followStar = new Star(mouseX, mouseY);
 }
 
 function draw() {
@@ -18,6 +21,19 @@ function draw() {
     for(let i = 0; i < star.length; i++) {
         star[i].display();
     }
+
+    push();
+    translate(mouseX, mouseY);
+
+    beginShape();
+    vertex(0, - 10);
+    bezierVertex(-5, 0, -5, 0,  - 10, 0);
+    bezierVertex(0, 5, 0, 5, 0, 10);
+    bezierVertex(5, 0, 5, 0, 10, 0);
+    bezierVertex(0, -5,0, -5, 0, -10);
+    endShape(CLOSE);
+
+    pop();
 
 }
 
