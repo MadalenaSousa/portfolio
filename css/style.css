@@ -291,7 +291,7 @@ a {text-decoration: none; color: black}
 /* LANDING PAGE */
 
 .landingpage-title {
-  margin: 3% 0 3% 0;
+  margin: 5% 0 3% 0;
 }
 
 .landingpage-links {
@@ -311,6 +311,26 @@ a {text-decoration: none; color: black}
 
 .landingpage-links>div>a:hover {
   text-decoration: underline;
+}
+
+.landingpage-bg {
+  display: flex;
+  align-items: flex-start;
+  width: 100vw;
+  height: 100vh;
+}
+
+@media only screen and (min-width: 600px) and (max-width: 1000px) {
+  .landingpage-bg {
+    height: 120vh;
+  }
+}
+
+.landingpage-nav {
+  width: 100vw;
+  height: 0;
+  display: flex;
+  align-items: center;
 }
 
 /*WORKS*/
@@ -341,7 +361,7 @@ a {text-decoration: none; color: black}
   }
 }
 
-@media only screen and (min-width: 600px) and (max-width: 900px) {
+@media only screen and (min-width: 600px) and (max-width: 1000px) {
   .work {
     flex: calc(100% - 5vw);
   }
