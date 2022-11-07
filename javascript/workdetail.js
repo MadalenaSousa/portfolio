@@ -32,6 +32,7 @@ function createWorkDetail(workObject) {
     for(let i = 0; i < workObject.images.length; i++) {
         let row1 = document.createElement("div");
         row1.classList.add("row");
+        row1.classList.add("reveal");
 
         let imgColumn = document.createElement("div");
         imgColumn.classList.add("twelve");

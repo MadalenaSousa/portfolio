@@ -216,22 +216,24 @@ a {text-decoration: none; color: black}
   padding: 5px;
 }
 
-.logo div:first-child {
-  transform: translateX(0);
-  transition: transform 0.3s ease-in-out;
-}
+@media only screen and (min-width: 1000px) {
+  .logo div:first-child {
+    transform: translateX(0);
+    transition: transform 0.3s ease-in-out;
+  }
 
-.logo div:last-child {
-  transform: translateX(10%);
-  transition: transform 0.3s ease-in-out;
-}
+  .logo div:last-child {
+    transform: translateX(10%);
+    transition: transform 0.3s ease-in-out;
+  }
 
-.logo:hover div:first-child {
-  transform: translateX(70%);
-}
+  .logo:hover div:first-child {
+    transform: translateX(70%);
+  }
 
-.logo:hover div:last-child {
-  transform: translateX(-180%);
+  .logo:hover div:last-child {
+    transform: translateX(-180%);
+  }
 }
 
 .hamburger {
