@@ -291,7 +291,19 @@ a {text-decoration: none; color: black}
 /* LANDING PAGE */
 
 .landingpage-title {
-  margin: 5% 0 3% 0;
+  margin: 3% 0 3% 0;
+}
+
+@media only screen and (min-width: 600px) and (max-width: 1000px) {
+  .landingpage-title {
+    margin: 10% 0 10% 0;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .landingpage-title {
+    margin: 10% 0 10% 0;
+  }
 }
 
 .landingpage-links {
