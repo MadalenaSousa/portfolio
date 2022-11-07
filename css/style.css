@@ -209,12 +209,29 @@ a {text-decoration: none; color: black}
 /*NAVIGATION*/
 
 .logo {
-  display: inline-block;
-  width: 50%;
+  display: flex;
+  gap: 1%;
+  width: 20%;
+  height: 100%;
+  padding: 5px;
 }
 
-.logo:hover {
-  color: mediumpurple;
+.logo div:first-child {
+  transform: translateX(0);
+  transition: transform 0.3s ease-in-out;
+}
+
+.logo div:last-child {
+  transform: translateX(10%);
+  transition: transform 0.3s ease-in-out;
+}
+
+.logo:hover div:first-child {
+  transform: translateX(70%);
+}
+
+.logo:hover div:last-child {
+  transform: translateX(-180%);
 }
 
 .hamburger {

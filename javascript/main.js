@@ -14,13 +14,13 @@ for(let i = 0; i < hamburgerPath.length; i++) {
 
 logo.style.color = body.style.color;
 
-logo.addEventListener("mouseenter", function () {
+/*logo.addEventListener("mouseenter", function () {
   logo.style.color = "mediumpurple";
 })
 
 logo.addEventListener("mouseleave", function () {
   logo.style.color = body.style.color;
-})
+})*/
 
 // HAMBURGER
 
