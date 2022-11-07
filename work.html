@@ -19,8 +19,6 @@
 
     <!-- CSS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/skeleton.css">
     <link rel="stylesheet" href="css/style.css">
 
     <!-- Favicon
@@ -31,114 +29,92 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 </head>
 
-<body>
+<body style="background-color: white">
   <div class="container"> <!-- Begin Container -->
       <header>
-          <nav class="row navBar">
-              <div class="twelve columns">
-                  <div class="nav-menu">
-                      <div class="nav-content">
-                          <a class="nav-item" href="portfolio.html">
-                              my work
-                              <svg class="displayNone navHover" width="80" height="50" viewBox="0 0 102 56" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                  <path d="M3.68198 9.72892C25.7791 7.27259 47.3001 0.270245 69.7774 1.06205C80.5623 1.44197 96.8897 6.35046 100.339 18.2353C106.832 40.6117 63.7206 50.7466 49.4836 53.3843C41.8068 54.8065 -2.28583 59.6997 1.19539 40.5445C3.29039 29.0168 19.7549 22.6747 29.671 19.8403" stroke="black" stroke-linecap="round"/>
-                              </svg>
-                          </a>
-                          <a class="nav-item" href="about.html">
-                              about me
-                              <svg class="displayNone navHover" width="80" height="50" viewBox="0 0 102 56" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                  <path d="M3.68198 9.72892C25.7791 7.27259 47.3001 0.270245 69.7774 1.06205C80.5623 1.44197 96.8897 6.35046 100.339 18.2353C106.832 40.6117 63.7206 50.7466 49.4836 53.3843C41.8068 54.8065 -2.28583 59.6997 1.19539 40.5445C3.29039 29.0168 19.7549 22.6747 29.671 19.8403" stroke="black" stroke-linecap="round"/>
-                              </svg>
-                          </a>
-                          <a class="nav-item" href="contact.html">
-                              let's talk
-                              <svg class="displayNone navHover" width="80" height="50" viewBox="0 0 102 56" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                  <path d="M3.68198 9.72892C25.7791 7.27259 47.3001 0.270245 69.7774 1.06205C80.5623 1.44197 96.8897 6.35046 100.339 18.2353C106.832 40.6117 63.7206 50.7466 49.4836 53.3843C41.8068 54.8065 -2.28583 59.6997 1.19539 40.5445C3.29039 29.0168 19.7549 22.6747 29.671 19.8403" stroke="black" stroke-linecap="round"/>
-                              </svg>
-                          </a>
-                          <a class="nav-item" href="index.html">
-                              star sky
-                              <svg class="displayNone navHover" width="80" height="50" viewBox="0 0 102 56" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                  <path d="M3.68198 9.72892C25.7791 7.27259 47.3001 0.270245 69.7774 1.06205C80.5623 1.44197 96.8897 6.35046 100.339 18.2353C106.832 40.6117 63.7206 50.7466 49.4836 53.3843C41.8068 54.8065 -2.28583 59.6997 1.19539 40.5445C3.29039 29.0168 19.7549 22.6747 29.671 19.8403" stroke="black" stroke-linecap="round"/>
-                              </svg>
-                          </a>
-                          <a class="nav-item" href="https://www.etsy.com/shop/MadalenaSousa" target="_blank">
-                              etsy shop
-                              <svg class="displayNone navHover" width="80" height="50" viewBox="0 0 102 56" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                  <path d="M3.68198 9.72892C25.7791 7.27259 47.3001 0.270245 69.7774 1.06205C80.5623 1.44197 96.8897 6.35046 100.339 18.2353C106.832 40.6117 63.7206 50.7466 49.4836 53.3843C41.8068 54.8065 -2.28583 59.6997 1.19539 40.5445C3.29039 29.0168 19.7549 22.6747 29.671 19.8403" stroke="black" stroke-linecap="round"/>
-                              </svg>
-                          </a>
-                      </div>
+          <nav class="navBar">
+              <a class="logo" href="index.html">
+                  <h3>madalena sousa</h3>
+              </a>
+              <div class="nav-menu">
+                  <div class="nav-content">
+                      <a class="nav-item" href="portfolio.html">
+                          <h2>my work</h2>
+                      </a>
+                      <a class="nav-item" href="about.html">
+                          <h2>about</h2>
+                      </a>
+                      <a class="nav-item" href="contact.html">
+                          <h2>let's talk</h2>
+                      </a>
+                      <a class="nav-item" href="https://www.etsy.com/shop/MadalenaSousa" target="_blank">
+                          <h2>etsy shop</h2>
+                      </a>
                   </div>
-
-                  <div class="hamburger">
-                      <svg width="40" height="58" viewBox="0 0 40 58" fill="none" xmlns="http://www.w3.org/2000/svg">
-                          <path d="M19.8167 0C20.0774 4.82379 20.2078 9.51722 20.3381 14.341C20.4685 19.1648 20.4685 23.8582 20.4685 28.682C20.4685 33.5058 20.4685 38.1992 20.3381 43.023L20.2078 50.1935C20.0774 52.5402 20.0774 55.0173 19.947 57.364C19.8167 55.0173 19.6863 52.5402 19.6863 50.1935L19.5559 43.023C19.4255 38.1992 19.4255 33.5058 19.4255 28.682C19.4255 23.8582 19.4255 19.1648 19.5559 14.341C19.4255 9.51722 19.5559 4.82379 19.8167 0Z" fill="black"/>
-                          <path d="M0 28.682C3.25932 28.4213 6.64901 28.2909 9.90833 28.1606C13.1677 28.0302 16.5573 28.0302 19.8167 28.0302C23.076 28.0302 26.4657 28.0302 29.725 28.1606L34.6792 28.2909C36.374 28.4213 37.9385 28.4213 39.6333 28.5517C37.9385 28.682 36.374 28.8124 34.6792 28.8124L29.725 28.9428C26.4657 29.0732 23.076 29.0732 19.8167 29.0732C16.5573 29.0732 13.1677 29.0732 9.90833 28.9428C6.64901 29.0732 3.25932 28.9428 0 28.682Z" fill="black"/>
-                          <path d="M8.86523 17.6003C12.9068 20.8596 16.6876 24.5101 20.338 28.1605C23.9885 31.8109 27.6389 35.5918 30.8982 39.6333C26.8567 36.374 23.0759 32.7236 19.4254 29.0731C15.775 25.4227 12.1246 21.6419 8.86523 17.6003Z" fill="black"/>
-                          <path d="M30.8982 17.6003C27.6389 21.6419 23.9885 25.4227 20.338 29.0731C16.6876 32.7236 12.9068 36.374 8.86523 39.6333C12.1246 35.5918 15.775 31.8109 19.4254 28.1605C23.0759 24.5101 26.8567 20.99 30.8982 17.6003Z" fill="black"/>
-                      </svg>
-                      <div>MENU</div>
-                  </div>
-
+              </div>
+              <div class="hamburger">
+                  <svg viewBox="0 0 19 42" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M19 9C18.4545 8.98346 14.8843 9.08272 11.7438 11.2335C10.0909 14.3768 9.99174 17.4044 10.0083 18C10.0413 17.4706 9.92562 14.2114 8.27273 11.068C5.28099 8.75184 1.5124 8.98346 1 9C1.59504 9.01654 5.1157 8.5864 7.76033 6.93199C9.90909 3.7886 10.0083 0.545956 9.99174 0C9.95868 0.512868 10.405 3.7886 12.0579 6.76654C15.3636 8.75184 18.4711 9.03309 19 9Z"/>
+                      <path d="M18.8137 32.035C18.2661 32.0184 14.6818 32.1181 11.5289 34.2773C9.86947 37.4331 9.7699 40.4726 9.7865 41.0706C9.81968 40.5391 9.70353 37.267 8.04411 34.1112C5.04056 31.7859 1.25709 32.0184 0.742676 32.035C1.34007 32.0516 4.87462 31.6198 7.52969 29.9589C9.68693 26.8031 9.7865 23.5476 9.7699 22.9995C9.73671 23.5144 10.1848 26.8031 11.8442 29.7928C15.163 31.7859 18.2827 32.0683 18.8137 32.035Z"/>
+                  </svg>
               </div>
           </nav>
       </header>
 
     <main>
-        <div class="row space-mid"></div>
+        <div class="space-mid"></div>
 
-        <div class="row workcover">
-          <div class="six columns">
+        <div class="workcover">
             <img src="" alt="">
-          </div>
-          <div class="six columns">
-            <h2></h2>
-            <p></p>
-          </div>
         </div>
 
-        <div class="row space-mid"></div>
+        <div class="workinfo display-flex">
+            <div>
+                <h2></h2>
+                <p></p>
+            </div>
+            <div class="workData">
+                <div>
+                    <div><h5>Made With</h5></div>
+                    <div></div>
+                </div>
+                <div>
+                    <div><h5>Areas</h5></div>
+                    <div></div>
+                </div>
+                <div>
+                    <div><h5>Year</h5></div>
+                    <div></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="space-mid"></div>
 
         <div class="workDetail">
 
         </div>
 
-        <div class="row">
-            <div class="twelve columns madewith">
-                <svg width="180" height="60" viewBox="0 0 514 81" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M1.87622 71.1486C2.39531 72.9654 12.1136 65.5797 13.2174 64.9818C22.4202 59.9969 22.673 68.4692 27.3938 74.7635C36.0276 86.2753 54.5616 72.7336 62.2678 66.8956C65.3347 64.5722 69.2955 62.1085 73.3254 62.2174C78.2607 62.3508 80.9705 67.1008 85.3753 68.5968C95.1282 71.9091 105.79 69.2489 115.429 67.3209" stroke="black" stroke-width="3" stroke-linecap="round"/>
-                    <path d="M139.671 64.7692C139.671 59.0255 129.691 60.2388 125.636 61.225C119.695 62.6703 121.64 69.2675 126.983 69.8018C136.238 70.7273 142.829 62.3592 151.225 62.3592C157.33 62.3592 163.452 66.7419 169.016 68.5968" stroke="black" stroke-width="3" stroke-linecap="round"/>
-                    <path d="M202.189 8.63055C202.189 27.1522 202.831 46.5258 194.25 63.4933C190.891 70.1348 187.519 74.9762 179.861 74.9762C175.273 74.9762 175.396 68.7617 175.396 65.4071C175.396 57.0667 192.07 59.6657 197.085 59.6657" stroke="black" stroke-width="3" stroke-linecap="round"/>
-                    <path d="M212.396 64.7692C212.708 67.2682 227.451 67.259 228.841 64.1312C230.759 59.8152 223.474 59.6656 221.327 59.6656C215.299 59.6656 208.008 67.3308 211.971 73.4168C219.098 84.3625 242.427 74.4466 250.672 71.1485" stroke="black" stroke-width="3" stroke-linecap="round"/>
-                    <path d="M336.156 63.4933C342.438 64.2323 343.053 79.4328 351.538 75.8976C354.38 74.7132 368.152 57.0219 369.967 59.2404C373.24 63.241 371.428 74.8898 378.26 75.9685C385.965 77.1851 393.593 62.204 399.95 58.3898" stroke="black" stroke-width="3" stroke-linecap="round"/>
-                    <path d="M408.881 60.9415C408.881 67.2716 409.789 70.1807 413.985 74.9762" stroke="black" stroke-width="3" stroke-linecap="round"/>
-                    <path d="M443.33 2.25116C442.706 22.207 431.757 41.9141 435.958 62.2174C438.226 73.18 451.952 71.501 458.64 67.3209" stroke="black" stroke-width="3" stroke-linecap="round"/>
-                    <path d="M420.364 46.9069C428.888 46.6129 437.323 45.6841 445.882 45.631C450.608 45.6016 455.917 46.355 459.916 44.3551" stroke="black" stroke-width="3" stroke-linecap="round"/>
-                    <path d="M472.675 11.1823C472.675 27.3546 473.617 43.8377 472.037 59.9492C471.987 60.4571 470.697 69.9323 471.683 70.0144C473.051 70.1285 478.931 63.896 480.259 62.9971C491.932 55.1013 500.638 65.3893 512.227 67.3209" stroke="black" stroke-width="3" stroke-linecap="round"/>
-                    <path d="M407.605 49.4586C407.605 51.2354 407.177 51.8709 408.881 50.7345" stroke="black" stroke-width="3" stroke-linecap="round"/>
-                </svg>
-                <div></div>
-            </div>
-        </div>
+        <!--div class="space-mid"></div>
 
-        <div class="row space-mid"></div>
+        <div class="nextproject">
+            <svg width="25" height="25" viewBox="0 0 105 105" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M105 52.5C101.818 52.4035 80.9917 52.9825 62.6722 65.5285C53.0303 83.8649 52.4518 101.526 52.5482 105C52.741 101.912 52.0661 82.8998 42.4242 64.5634C24.9725 51.0524 2.98898 52.4035 0 52.5C3.47107 52.5965 24.0083 50.0873 39.4353 40.4366C51.9697 22.1002 52.5482 3.18474 52.4518 0C52.259 2.99173 54.8623 22.1002 64.5041 39.4715C83.7879 51.0524 101.915 52.693 105 52.5Z" fill="black"/>
+            </svg>
+            <h3>NEXT PROJECT</h3>
+            <svg width="25" height="25" viewBox="0 0 105 105" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M105 52.5C101.818 52.4035 80.9917 52.9825 62.6722 65.5285C53.0303 83.8649 52.4518 101.526 52.5482 105C52.741 101.912 52.0661 82.8998 42.4242 64.5634C24.9725 51.0524 2.98898 52.4035 0 52.5C3.47107 52.5965 24.0083 50.0873 39.4353 40.4366C51.9697 22.1002 52.5482 3.18474 52.4518 0C52.259 2.99173 54.8623 22.1002 64.5041 39.4715C83.7879 51.0524 101.915 52.693 105 52.5Z" fill="black"/>
+            </svg>
+        </div-->
 
-        <div class="row">
-          <div class="twelve columns thankyou">
-            <h3>Thank You!</h3>
-            <div></div>
-          </div>
-        </div>
-
-        <div class="row space-large"></div>
+        <div class="space-large"></div>
 
     </main>
   </div> <!-- End Container -->
 
-  <svg class="top-button" viewBox="0 0 17 56" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M9.58017 1C3.08024 44.5 9.58017 55.5 9.58017 55.5M9.58017 1C9.58017 1 -1.49995 12 1.00016 18M9.58017 1C9.58017 1 18.5002 12.5 15.5002 18" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-  </svg>
+  <div class="top-button">
+      <h3>top</h3>
+  </div>
 
   <script src="javascript/workdetail.js" type="module"></script>
   <script src="javascript/main.js" type="module"></script>

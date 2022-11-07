@@ -1,48 +1,71 @@
-let hamburger = document.querySelector(".hamburger");
-let hamburgerPath = document.querySelectorAll(".hamburger svg path");
-let navMenu = document.querySelector(".nav-menu");
 let body = document.querySelector("body");
+let hamburger = document.querySelector(".hamburger");
+let navMenu = document.querySelector(".nav-menu");
+let logo = document.querySelector(".logo");
+
+let hamburgerPath = document.querySelectorAll(".hamburger svg path");
 
 for(let i = 0; i < hamburgerPath.length; i++) {
-  if(body.style.backgroundColor === "black") {
-    hamburgerPath[i].style.fill = "white";
-  } else {
-    hamburgerPath[i].style.fill = "black";
-  }
+  hamburgerPath[i].style.fill = body.style.color;
 }
+
+logo.style.color = body.style.color;
+
+logo.addEventListener("mouseenter", function () {
+  logo.style.color = "mediumpurple";
+})
+
+logo.addEventListener("mouseleave", function () {
+  logo.style.color = body.style.color;
+})
+
+hamburger.addEventListener("mouseenter", function () {
+  for(let i = 0; i < hamburgerPath.length; i++) {
+    hamburgerPath[i].style.fill = "mediumpurple";
+  }
+})
+
+hamburger.addEventListener("mouseleave", function () {
+  for(let i = 0; i < hamburgerPath.length; i++) {
+    hamburgerPath[i].style.fill = body.style.color;
+  }
+})
 
 hamburger.addEventListener("click", function () {
   hamburger.classList.toggle("active");
   navMenu.classList.toggle("active");
+});
 
-  let hamburgerActive = document.querySelectorAll(".hamburger.active svg path");
-  let navMenuActive = document.querySelector(".nav-menu.active");
-  let navItemsActive = document.querySelectorAll(".nav-menu.active .nav-item");
+window.addEventListener("scroll", function () {
+  let elementsToAppear = document.querySelectorAll(".reveal");
 
-  if(navMenuActive !== null && hamburgerActive !== null) {
-    if(body.style.backgroundColor === "black"){
-      navMenuActive.style.backgroundColor = "white";
-      navMenuActive.style.color = "black";
-    } else  {
-      navMenuActive.style.backgroundColor = "black";
-      navMenuActive.style.color = "white";
-    }
+  for(let i = 0; i < elementsToAppear.length; i++) {
+    let windowHeight = window.innerHeight;
+    let revealTop = elementsToAppear[i].getBoundingClientRect().top;
+    let showAt = 80;
 
-    for(let i = 0; i < hamburgerActive.length; i++) {
-      if(body.style.backgroundColor === "black"){
-        hamburgerActive[i].style.fill = "black";
-      } else  {
-        hamburgerActive[i].style.fill = "white";
-      }
-    }
-
-    for(let i = 0; i < navItemsActive.length; i++) {
-      if(body.style.backgroundColor === "black"){
-        navItemsActive[i].style.color = "black";
-      } else  {
-        navItemsActive[i].style.color = "white";
-      }
+    if(revealTop < windowHeight - showAt) {
+      elementsToAppear[i].classList.add("show");
+    } else {
+      elementsToAppear[i].classList.remove("show");
     }
   }
-});
+})
+
+setTimeout(function () {
+  let elementsToAppear = document.querySelectorAll(".revealOnLoad");
+
+  for(let i = 0; i < elementsToAppear.length; i++) {
+    let windowHeight = window.innerHeight;
+    let revealTop = elementsToAppear[i].getBoundingClientRect().top;
+    let showAt = 30;
+
+    if(revealTop < windowHeight - showAt) {
+      elementsToAppear[i].classList.add("show");
+    } else {
+      elementsToAppear[i].classList.remove("show");
+    }
+  }
+}, 500)
+
 

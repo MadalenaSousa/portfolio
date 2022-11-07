@@ -15,57 +15,41 @@ fetch('./works.json')
                 sessionStorage.setItem("workId", json[i].id);
             })
         }
-
-        hoverWork();
     });
 
 function createWork(json) {
     for(let i = 0; i < json.length; i++) {
         let divBox = document.createElement("div");
         divBox.classList.add("work");
-        divBox.classList.add("grayscale");
 
-        let workText = document.createElement("div");
-
-        let title = document.createElement("div");
-        title.textContent = json[i].title;
-
-        let category = document.createElement("div");
-        category.textContent = json[i].category;
-
-        let year = document.createElement("div");
-        year.textContent = json[i].year;
-
-        workText.appendChild(title);
-        workText.appendChild(category);
-        workText.appendChild(year);
+        if(i === 0) {
+            divBox.classList.add("revealOnLoad");
+        } else if(i === 1) {
+            divBox.classList.add("revealOnLoad");
+        } else {
+            divBox.classList.add("reveal");
+        }
 
         let workImg = document.createElement("img");
         workImg.setAttribute("src", json[i].cover);
         workImg.setAttribute("alt", "");
 
-        divBox.appendChild(workText);
+        let workText = document.createElement("div");
+
+        let title = document.createElement("div");
+        title.textContent = json[i].title;
+        title.style.fontWeight = "Bold";
+
+        let category = document.createElement("div");
+        category.textContent = json[i].category;
+
+        workText.appendChild(title);
+        workText.appendChild(category);
+
         divBox.appendChild(workImg);
+        divBox.appendChild(workText);
 
         row.appendChild(divBox);
-    }
-}
-
-function hoverWork() {
-    let eachWork = document.querySelectorAll(".work");
-    console.log(eachWork);
-
-    for(let i = 0; i < eachWork.length; i++) {
-
-        eachWork[i].addEventListener("mouseenter", function () {
-            eachWork[i].classList.remove("grayscale");
-            eachWork[i].style.fontFamily = "Space Grotesk SemiBold, sans serif";
-        })
-
-        eachWork[i].addEventListener("mouseleave", function () {
-            eachWork[i].classList.add("grayscale");
-            eachWork[i].style.fontFamily = "Space Grotesk, sans serif";
-        })
     }
 }
 

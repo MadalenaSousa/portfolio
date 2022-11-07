@@ -1,10 +1,13 @@
-let workCover = document.querySelector(".workcover div img");
-let workTitle = document.querySelector(".workcover div h2");
-let workDescription = document.querySelector(".workcover div p");
-let workTools = document.querySelector(".madewith div");
-let workYear  = document.querySelector(".thankyou div");
+let workCover = document.querySelector(".workcover img");
+let workTitle = document.querySelector(".workinfo div h2");
+let workDescription = document.querySelector(".workinfo div p");
+let workTools = document.querySelector(".workData div:first-child div:nth-child(2)");
+let workAreas  = document.querySelector(".workData div:nth-child(2) div:nth-child(2)");
+let workYear  = document.querySelector(".workData div:nth-child(3) div:nth-child(2)");
 
 let workDetailBox = document.querySelector(".workDetail");
+
+let nextProjectBtn = document.querySelector(".nextproject");
 
 fetch('./works.json')
     .then(function (response) {
@@ -23,11 +26,8 @@ function createWorkDetail(workObject) {
     workTitle.textContent = workObject.title;
     workDescription.textContent = workObject.description;
     workTools.textContent = workObject.tools;
-
-    let yearSVG = document.createElement("img");
-    yearSVG.setAttribute("src", "images/workpage/" + workObject.year + ".svg")
-
-    workYear.appendChild(yearSVG);
+    workAreas.textContent = workObject.category
+    workYear.textContent = workObject.year;
 
     for(let i = 0; i < workObject.images.length; i++) {
         let row1 = document.createElement("div");

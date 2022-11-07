@@ -2,11 +2,14 @@ let star = [];
 let starCount;
 let newStar;
 let followStar;
+let myCanvas
 
 function setup() {
-    createCanvas(windowWidth, windowHeight);
+    myCanvas = createCanvas(windowWidth * 0.9, windowHeight * 0.6);
 
-    starCount = 50;
+    myCanvas.parent("canvasDiv");
+
+    starCount = 20;
 
     for(let i = 0; i < starCount; i++) {
         star[i] = new Star(random(width), random(height));
@@ -16,7 +19,7 @@ function setup() {
 }
 
 function draw() {
-    background(255);
+    background(235, 226, 211);
 
     for(let i = 0; i < star.length; i++) {
         star[i].display();
@@ -43,7 +46,7 @@ function mouseClicked() {
 }
 
 function windowResized() {
-    resizeCanvas(windowWidth, windowHeight);
+    resizeCanvas(windowWidth * 0.9, windowHeight * 0.6);
     star.slice();
     for(let i = 0; i < starCount; i++) {
         star[i] = new Star(random(width), random(height));
