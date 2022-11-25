@@ -224,7 +224,7 @@
     ],
     "videos": [
       {
-        "src": "images/agr1316/demo.mp4",
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/agr1316/demo.mp4",
         "title": "",
         "description": ""
       }
@@ -409,7 +409,7 @@
     ],
     "videos": [
       {
-        "src": "images/tiposetotos/demo.mp4",
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/tiposetotos/demo.mp4",
         "title": "",
         "description": ""
       }
