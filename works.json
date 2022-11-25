@@ -189,6 +189,49 @@
   },
   {
     "id": 3,
+    "title": "SCOUT WEBSITE REDESIGN",
+    "year" : "2022",
+    "description": "This project's goal was to make sustainability more attractive to people. To do this, ECOSPOTS treats each good action towards the environment as a kind of game elements. Each time you do a good action, you get points. The user can then have friends and compare their points, bringing a competitive element to sustainable actions. The prototype can be tested in: https://bit.ly/3zh7Ah6",
+    "cover": "images/ecospots/cover.png",
+    "category": "UX/UI, GRAPHIC DESIGN",
+    "tools": "FIGMA",
+    "images": [
+      {
+        "src": "images/ecospots/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/ecospots/2.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/ecospots/3.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/ecospots/4.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/ecospots/5.png",
+        "title": "",
+        "description": ""
+      },
+    ],
+    "videos": [
+      {
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/agr1316/demo.mp4",
+        "title": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
     "title": "Scale of the Dead",
     "year" : "2020",
     "description": "This was a game made for a Digital Games class in collaboration with some colleagues. My part of this work was mainly focused on development, level design and documentation.",
