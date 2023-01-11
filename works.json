@@ -49,19 +49,19 @@
         "description": ""
       },
       {
-        "src": "images/planetarium/9.gif",
-        "title": "Login and Calender",
-        "description": "The user can login to the app and check the calender and Planetarium events."
+        "src": "images/planetarium/9.png",
+        "title": "",
+        "description": ""
       },
       {
-        "src": "images/planetarium/10.gif",
-        "title": "Quiz",
-        "description": "The user can use the app to participate in Planetarium sessions, through a quiz like form."
+        "src": "images/planetarium/10.png",
+        "title": "",
+        "description": ""
       },
       {
-        "src": "images/planetarium/11.gif",
-        "title": "Audio and History",
-        "description": "The user can listen to the audio guide through the QR Codes as well as check historical information about the Planetarium."
+        "src": "images/planetarium/11.png",
+        "title": "",
+        "description": ""
       },
       {
         "src": "images/planetarium/12.png",
@@ -70,6 +70,41 @@
       },
       {
         "src": "images/planetarium/13.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/planetarium/14.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/planetarium/15.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/planetarium/16.gif",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/planetarium/17.gif",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/planetarium/18.gif",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/planetarium/19.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/planetarium/20.png",
         "title": "",
         "description": ""
       }
