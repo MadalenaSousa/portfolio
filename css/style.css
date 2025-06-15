@@ -603,3 +603,22 @@ a {text-decoration: none; color: black}
 .characteristics img {
   width: 200px;
 }
+
+.desktop-display-none {
+  display: none;
+}
+
+@media (max-width: 450px) {
+
+  .mobile-display-none {
+    display: none;
+  }
+
+  .desktop-display-none {
+    display: inherit;
+  }
+
+  .characteristics img {
+    width: 100px;
+  }
+}
