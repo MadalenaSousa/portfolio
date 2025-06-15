@@ -593,3 +593,13 @@ a {text-decoration: none; color: black}
   text-decoration: underline;
 }
 
+.characteristics {
+  gap: 100px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.characteristics img {
+  width: 200px;
+}
