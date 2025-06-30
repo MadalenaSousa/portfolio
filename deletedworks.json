@@ -1,4 +1,5 @@
-{
+[
+  {
     "id": 26,
     "title": "Personal Branding (Old)",
     "year" : 2022,
@@ -44,4 +45,257 @@
       }
     ],
     "videos": []
+  },
+  {
+    "id": 20,
+    "title": "Self Portrait",
+    "year" : "2019",
+    "description": "This was a project made for a Photography class where we had to present a self portrait. The overall look of the pictures is dark because the goal is to show the not so happy parts of me. Each gesture in a away shows an insecurity or dilemma.",
+    "cover": "images/selfportrait/cover.png",
+    "category": "PHOTOGRAPHY, CONCEPT PHOTOGRAPHY",
+    "tools": "CANON M50 | ADOBE LIGHTROOM",
+    "images": [
+      {
+        "src": "images/selfportrait/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/selfportrait/2.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/selfportrait/3.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/selfportrait/4.png",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 21,
+    "title": "What is Happiness?",
+    "year" : "2018",
+    "description": "This was a project made for a Design class where we had to illustrate what is happiness and of course my brain went immediately to food.",
+    "cover": "images/donut/cover.png",
+    "category": "ILLUSTRATION",
+    "tools": "ADOBE ILLUSTRATOR",
+    "images": [
+      {
+        "src": "images/donut/1.png",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "videos": []
+  },  
+  {
+    "id": 13,
+    "title": "Promotional Video | Existências",
+    "year" : "2019",
+    "description": "This project was made for the association Existências, an association that supports people with drug addictions. This association needed a promotional video that would show what they actually do and how they try to give a better life and minimize risks for people with drug addictions without them having to stop taking drugs.",
+    "cover": "images/existencias/cover.gif",
+    "category": "VIDEO PRODUCTION, VIDEO EDITING",
+    "tools": "CANON M50 | ADOBE PREMIERE PRO",
+    "images": [
+      {
+        "src": "images/existencias/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/existencias/2.png",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "videos": [
+      {
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/existencias/demo.mp4",
+        "title": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Scouts Group Social Media Posts",
+    "year" : 2022,
+    "description": "These posts intended to notice people about the fact that the scout year was about to start and that they could join the group. The idea is that, using those small drawings, which are scout leads, we got 5 posts that completed each other, and were connected by a path.",
+    "cover": "images/agrsocial/cover.png",
+    "category": "SOCIAL MEDIA, MARKETING",
+    "tools": "FIGMA",
+    "images": [
+      {
+        "src": "images/agrsocial/1.gif",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/agrsocial/cover.png",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 10,
+    "title": "Sample ERP System Dashboard",
+    "year" : 2022,
+    "description": "This is a small screen that I created for a design challenge where we had to quickly design a single screen of an ERP System's dashboard, improvising it's components.",
+    "cover": "images/dashboard/cover.png",
+    "category": "UX/UI",
+    "tools": "FIGMA",
+    "images": [
+      {
+        "src": "images/dashboard/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/dashboard/cover.png",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 9,
+    "title": "Tipos e Totós: Online Course Design",
+    "year" : "2021",
+    "description": "This project was made in the context of my e-learning class. I've always found typography something very important and that everyone should have basic knowledge in, so when the opportunity to create an online course came along, I was happy to create this introduction course on basic typographic rules, that can help anyone that needs to write as part of their daily routine.",
+    "cover": "images/tiposetotos/cover.png",
+    "category": "UX/UI, INSTRUCTIONAL DESIGN, MOTION DESIGN",
+    "tools": "FIGMA | GOOGLE CLASSROOM | ADOBE PREMIERE PRO",
+    "images": [
+      {
+        "src": "images/tiposetotos/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/tiposetotos/2.png",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "videos": [
+      {
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/tiposetotos/demo.mp4",
+        "title": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Apropriation | Duane Michals",
+    "year" : "2019",
+    "description": "This was a project made for a Photography class where we had to chose some of our favorite photographers and create images based on there works. These should include exact copies and adaptations. In the case of Duane Michals I chose to create two exact copies.",
+    "cover": "images/duanemichals/cover.png",
+    "category": "PHOTOGRAPHY, APPROPRIATION",
+    "tools": "CANON M50 | ADOBE PHOTOSHOP | ADOBE LIGHTROOM",
+    "images": [
+      {
+        "src": "images/duanemichals/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/duanemichals/cover.png",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 23,
+    "title": "Apropriation | Gregory Crewdson",
+    "year" : "2019",
+    "description": "This was a project made for a Photography class where we had to chose some of our favorite photographers and create images based on there works. These should include exact copies and adaptations. Gregory Crewdson is one of my most favorite photographers, so I chose him to work on. I tried to create one exact copy, the picture in the cover and two inspired photos.",
+    "cover": "images/gregorycrewdson/cover.png",
+    "category": "PHOTOGRAPHY, APPROPRIATION",
+    "tools": "ADOBE LIGHTROOM",
+    "images": [
+      {
+        "src": "images/gregorycrewdson/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/gregorycrewdson/2.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/gregorycrewdson/cover.png",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 24,
+    "title": "Poster for Tomorrow",
+    "year" : "2018",
+    "description": "These posters were made for the contest Poster for Tomorrow, in the scope of a class. The goal was to make posters that would alert to the environmental crisis.",
+    "cover": "images/polution/cover.png",
+    "category": "ILLUSTRATION, EDITORIAL DESIGN",
+    "tools": "ADOBE ILLUSTRATOR",
+    "images": [
+      {
+        "src": "images/polution/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/polution/2.png",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 12,
+    "title": "Stanley Morrison Flyer",
+    "year" : "2018",
+    "description": "This was a project made for a Typography class where we had to make a flyer that showed information about a Typographer and their most famous font. My flyer is about Stanley Morrison, the creator of Times New Roman. The front of the flyer has all the information and the back has big poster.",
+    "cover": "images/flyer1/cover.png",
+    "category": "EDITORIAL DESIGN",
+    "tools": "ADOBE IN DESIGN",
+    "images": [
+      {
+        "src": "images/flyer1/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/flyer1/2.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/flyer1/3.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/flyer1/4.png",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "videos": []
   }
+]

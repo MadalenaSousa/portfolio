@@ -350,49 +350,6 @@
   },
   {
     "id": 4,
-    "title": "SCOUT WEBSITE REDESIGN",
-    "year" : "2022",
-    "description": "Our Scouts website was in need of a UI update and redesign, therefore, I created this prototype of an updated website. I tried to use the main user experience principles to make this something acessible to our scouts and their parents. The website is now starting to be developed according to this prototype.",
-    "cover": "images/agr1316/cover.png",
-    "category": "UX/UI, GRAPHIC DESIGN",
-    "tools": "FIGMA | ADOBE ILLUSTRATOR",
-    "images": [
-      {
-        "src": "images/agr1316/1.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/agr1316/2.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/agr1316/3.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/agr1316/4.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/agr1316/5.png",
-        "title": "",
-        "description": ""
-      }
-    ],
-    "videos": [
-      {
-        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/agr1316/demo.mp4",
-        "title": "",
-        "description": ""
-      }
-    ]
-  },
-  {
-    "id": 5,
     "title": "Good Registry",
     "year" : 2023,
     "description": "Good Registry is a soon to be app that is ment to help people accept help. It is mainly aimed at mental health struggles but can be broadened. It allows users to register what they are willing to get help with, which to do so in person, can be daunting. Then their friends can select things to help them with.",
@@ -434,60 +391,7 @@
     "videos": []
   },
   {
-    "id": 6,
-    "title": "Scale of the Dead",
-    "year" : "2020",
-    "description": "This was a game made for a Digital Games class in collaboration with some colleagues. My part of this work was mainly focused on development, level design and documentation.",
-    "cover": "images/scaleofthedead/cover.gif",
-    "category": "GAME DEVELOPMENT, LEVEL DESIGN",
-    "tools": "UNITY",
-    "images": [
-      {
-        "src": "images/scaleofthedead/1.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/scaleofthedead/2.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/scaleofthedead/3.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/scaleofthedead/4.gif",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/scaleofthedead/5.gif",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/scaleofthedead/6.gif",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/scaleofthedead/7.png",
-        "title": "",
-        "description": ""
-      }
-    ],
-    "videos": [
-      {
-        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/scaleofthedead/demo.mp4",
-        "title": "",
-        "description": ""
-      }
-    ]
-  },
-  {
-    "id": 7,
+    "id": 5,
     "title": "The Joke | Interactive Website",
     "year" : "2019",
     "description": "In this project we had to represent a short story making use of multimedia technologies. We chose to create an interactive website about The Joke, a short story by Anton Checkov. Our concept was to explore the story and mix it with a bit of research about the author, so we can see the story being written on the side as well as SVG animations and illustrations about it but this is mixed with written notes and pictures about Checkov's life and society context.",
@@ -554,7 +458,7 @@
     "videos": []
   },
   {
-    "id": 8,
+    "id": 6,
     "title": "Design, Art and Technology Conference Identity",
     "year" : "2018",
     "description": "This was a project made in the scope of a course about visual identities, the first branding project I ever made. It was in collaboration with Maria Soares. The briefing included creating a branding for the DAT(Design, Art and Technology) conference, which should include a website and posters.",
@@ -591,195 +495,50 @@
     "videos": []
   },
   {
-    "id": 9,
-    "title": "Tipos e Totós: Online Course Design",
-    "year" : "2021",
-    "description": "This project was made in the context of my e-learning class. I've always found typography something very important and that everyone should have basic knowledge in, so when the opportunity to create an online course came along, I was happy to create this introduction course on basic typographic rules, that can help anyone that needs to write as part of their daily routine.",
-    "cover": "images/tiposetotos/cover.png",
-    "category": "UX/UI, INSTRUCTIONAL DESIGN, MOTION DESIGN",
-    "tools": "FIGMA | GOOGLE CLASSROOM | ADOBE PREMIERE PRO",
+    "id": 7,
+    "title": "SCOUT WEBSITE REDESIGN",
+    "year" : "2022",
+    "description": "Our Scouts website was in need of a UI update and redesign, therefore, I created this prototype of an updated website. I tried to use the main user experience principles to make this something acessible to our scouts and their parents. The website is now starting to be developed according to this prototype.",
+    "cover": "images/agr1316/cover.png",
+    "category": "UX/UI, GRAPHIC DESIGN",
+    "tools": "FIGMA | ADOBE ILLUSTRATOR",
     "images": [
       {
-        "src": "images/tiposetotos/1.png",
+        "src": "images/agr1316/1.png",
         "title": "",
         "description": ""
       },
       {
-        "src": "images/tiposetotos/2.png",
+        "src": "images/agr1316/2.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/agr1316/3.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/agr1316/4.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/agr1316/5.png",
         "title": "",
         "description": ""
       }
     ],
     "videos": [
       {
-        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/tiposetotos/demo.mp4",
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/agr1316/demo.mp4",
         "title": "",
         "description": ""
       }
     ]
   },
   {
-    "id": 10,
-    "title": "Sample ERP System Dashboard",
-    "year" : 2022,
-    "description": "This is a small screen that I created for a design challenge where we had to quickly design a single screen of an ERP System's dashboard, improvising it's components.",
-    "cover": "images/dashboard/cover.png",
-    "category": "UX/UI",
-    "tools": "FIGMA",
-    "images": [
-      {
-        "src": "images/dashboard/1.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/dashboard/cover.png",
-        "title": "",
-        "description": ""
-      }
-    ],
-    "videos": []
-  },
-  {
-    "id": 11,
-    "title": "Scouts Group Social Media Posts",
-    "year" : 2022,
-    "description": "These posts intended to notice people about the fact that the scout year was about to start and that they could join the group. The idea is that, using those small drawings, which are scout leads, we got 5 posts that completed each other, and were connected by a path.",
-    "cover": "images/agrsocial/cover.png",
-    "category": "SOCIAL MEDIA, MARKETING",
-    "tools": "FIGMA",
-    "images": [
-      {
-        "src": "images/agrsocial/1.gif",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/agrsocial/cover.png",
-        "title": "",
-        "description": ""
-      }
-    ],
-    "videos": []
-  },
-  {
-    "id": 12,
-    "title": "2020 Surviving a Pandemic",
-    "year" : "2020",
-    "description": "This was a game made in the earlier stages of the pandemic, for a Digital Games class. It is a 2D platformer game that intends to joke a little bit about the pandemic situation.",
-    "cover": "images/covidgame/cover.gif",
-    "category": "GAME ART, GAME DEVELOPMENT, LEVEL DESIGN",
-    "tools": "UNITY | ADOBE ILLUSTRATOR",
-    "images": [
-      {
-        "src": "images/covidgame/1.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/covidgame/2.png",
-        "title": "",
-        "description": ""
-      }
-    ],
-    "videos": [
-      {
-        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/covidgame/demo.mp4",
-        "title": "",
-        "description": ""
-      }
-    ]
-  },
-  {
-    "id": 13,
-    "title": "Promotional Video | Existências",
-    "year" : "2019",
-    "description": "This project was made for the association Existências, an association that supports people with drug addictions. This association needed a promotional video that would show what they actually do and how they try to give a better life and minimize risks for people with drug addictions without them having to stop taking drugs.",
-    "cover": "images/existencias/cover.gif",
-    "category": "VIDEO PRODUCTION, VIDEO EDITING",
-    "tools": "CANON M50 | ADOBE PREMIERE PRO",
-    "images": [
-      {
-        "src": "images/existencias/1.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/existencias/2.png",
-        "title": "",
-        "description": ""
-      }
-    ],
-    "videos": [
-      {
-        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/existencias/demo.mp4",
-        "title": "",
-        "description": ""
-      }
-    ]
-  },
-  {
-    "id": 14,
-    "title": "Illustrations",
-    "year" : "2020",
-    "description": "This project is a gathering of some illustrations made around the theme of flowers (a very common theme for me, I love flowers and drawing them), with some added other elements. All the drawings were made in Adobe Illustrator.",
-    "cover": "images/ilustrations1/cover.png",
-    "category": "ILLUSTRATION",
-    "tools": "ADOBE ILLUSTRATOR",
-    "images": [
-      {
-        "src": "images/ilustrations1/1.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/ilustrations1/2.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/ilustrations1/3.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/ilustrations1/4.png",
-        "title": "",
-        "description": ""
-      }
-    ],
-    "videos": []
-  },
-  {
-    "id": 15,
-    "title": "Soup Festival (Festival das Sopas)",
-    "year" : "2019",
-    "description": "This was a freelance project made for the Soup Festival in Figueira de Lorvão. The briefing included the need for posters and social media posts. The identity uses warm colors to relate to the warmth of soup and a fun and think font to appeal to the festival side and to improve visibility. This project was made using Adobe Illustrator, Premiere Pro and After Effects.",
-    "cover": "images/soupfestival/cover.png",
-    "category": "BRANDING, ILLUSTRATION",
-    "tools": "ADOBE ILLUSTRATOR | ADOBE AFTER EFFECTS | ADOBE PREMIERE PRO",
-    "images": [
-      {
-        "src": "images/soupfestival/1.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/soupfestival/2.png",
-        "title": "",
-        "description": ""
-      }
-    ],
-    "videos": [
-      {
-        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/soupfestival/demo.mp4",
-        "title": "",
-        "description": ""
-      }
-    ]
-  },
-  {
-    "id": 16,
+    "id": 8,
     "title": "Music Taste Visualizer",
     "year" : "2020",
     "description": "This project was made for a Project class in the last year of my Bachelor's degree, it was made in collaboration with Maria Soares and Maria Figueira. In this project we were given freedom to create any interactive multimedia artifact, we chose to create a website that would make people closer through music. This project is a multiuser website that uses the Spotify API so that the users can enter and add/remove visual representations of their favorite songs, their favorite playlists and favorite artists. This creates an online artboard filled with several user's favorite music. At the end of the project, UX/UI user testing was done and we received good results.",
@@ -822,24 +581,67 @@
     ]
   },
   {
-    "id": 17,
-    "title": "The Bucket Rider Animation",
+    "id": 9,
+    "title": "Soup Festival (Festival das Sopas)",
     "year" : "2019",
-    "description": "For this project we had to chose a short story to animate. Me and my colleague Maria Figueira chose The Bucket Rider by Franz Kafka.",
-    "cover": "images/cavaleirodobalde/cover.gif",
-    "category": "MOTION DESIGN, VIDEO FRAME BY FRAME",
-    "tools": "ADOBE AFTER EFFECTS | ADOBE PREMIERE PRO",
-    "images": [],
+    "description": "This was a freelance project made for the Soup Festival in Figueira de Lorvão. The briefing included the need for posters and social media posts. The identity uses warm colors to relate to the warmth of soup and a fun and think font to appeal to the festival side and to improve visibility. This project was made using Adobe Illustrator, Premiere Pro and After Effects.",
+    "cover": "images/soupfestival/cover.png",
+    "category": "BRANDING, ILLUSTRATION",
+    "tools": "ADOBE ILLUSTRATOR | ADOBE AFTER EFFECTS | ADOBE PREMIERE PRO",
+    "images": [
+      {
+        "src": "images/soupfestival/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/soupfestival/2.png",
+        "title": "",
+        "description": ""
+      }
+    ],
     "videos": [
       {
-        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/cavaleirodobalde/demo.mp4",
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/soupfestival/demo.mp4",
         "title": "",
         "description": ""
       }
     ]
   },
   {
-    "id": 18,
+    "id": 10,
+    "title": "Illustrations",
+    "year" : "2020",
+    "description": "This project is a gathering of some illustrations made around the theme of flowers (a very common theme for me, I love flowers and drawing them), with some added other elements. All the drawings were made in Adobe Illustrator.",
+    "cover": "images/ilustrations1/cover.png",
+    "category": "ILLUSTRATION",
+    "tools": "ADOBE ILLUSTRATOR",
+    "images": [
+      {
+        "src": "images/ilustrations1/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/ilustrations1/2.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/ilustrations1/3.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/ilustrations1/4.png",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": 11,
     "title": "Wedding Guide",
     "year" : "2019",
     "description": "This was a freelance project made for a wedding. The briefing included the need for a flyer or editorial element with the steps of the wedding ceremony. There were no specific requirements just that it should be elegant and simple. I drawed a rose for the cover and a rose stem for the back and the rest of the work was mainly typographical. This project was made using Adobe In Design.",
@@ -866,159 +668,105 @@
     "videos": []
   },
   {
-    "id": 19,
-    "title": "Stanley Morrison Flyer",
-    "year" : "2018",
-    "description": "This was a project made for a Typography class where we had to make a flyer that showed information about a Typographer and their most famous font. My flyer is about Stanley Morrison, the creator of Times New Roman. The front of the flyer has all the information and the back has big poster.",
-    "cover": "images/flyer1/cover.png",
-    "category": "EDITORIAL DESIGN",
-    "tools": "ADOBE IN DESIGN",
+    "id": 12,
+    "title": "Scale of the Dead",
+    "year" : "2020",
+    "description": "This was a game made for a Digital Games class in collaboration with some colleagues. My part of this work was mainly focused on development, level design and documentation.",
+    "cover": "images/scaleofthedead/cover.gif",
+    "category": "GAME DEVELOPMENT, LEVEL DESIGN",
+    "tools": "UNITY",
     "images": [
       {
-        "src": "images/flyer1/1.png",
+        "src": "images/scaleofthedead/1.png",
         "title": "",
         "description": ""
       },
       {
-        "src": "images/flyer1/2.png",
+        "src": "images/scaleofthedead/2.png",
         "title": "",
         "description": ""
       },
       {
-        "src": "images/flyer1/3.png",
+        "src": "images/scaleofthedead/3.png",
         "title": "",
         "description": ""
       },
       {
-        "src": "images/flyer1/4.png",
+        "src": "images/scaleofthedead/4.gif",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/scaleofthedead/5.gif",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/scaleofthedead/6.gif",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/scaleofthedead/7.png",
         "title": "",
         "description": ""
       }
     ],
-    "videos": []
+    "videos": [
+      {
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/scaleofthedead/demo.mp4",
+        "title": "",
+        "description": ""
+      }
+    ]
   },
   {
-    "id": 20,
-    "title": "Self Portrait",
+    "id": 13,
+    "title": "2020 Surviving a Pandemic",
+    "year" : "2020",
+    "description": "This was a game made in the earlier stages of the pandemic, for a Digital Games class. It is a 2D platformer game that intends to joke a little bit about the pandemic situation.",
+    "cover": "images/covidgame/cover.gif",
+    "category": "GAME ART, GAME DEVELOPMENT, LEVEL DESIGN",
+    "tools": "UNITY | ADOBE ILLUSTRATOR",
+    "images": [
+      {
+        "src": "images/covidgame/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/covidgame/2.png",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "videos": [
+      {
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/covidgame/demo.mp4",
+        "title": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "The Bucket Rider Animation",
     "year" : "2019",
-    "description": "This was a project made for a Photography class where we had to present a self portrait. The overall look of the pictures is dark because the goal is to show the not so happy parts of me. Each gesture in a away shows an insecurity or dilemma.",
-    "cover": "images/selfportrait/cover.png",
-    "category": "PHOTOGRAPHY, CONCEPT PHOTOGRAPHY",
-    "tools": "CANON M50 | ADOBE LIGHTROOM",
-    "images": [
+    "description": "For this project we had to chose a short story to animate. Me and my colleague Maria Figueira chose The Bucket Rider by Franz Kafka.",
+    "cover": "images/cavaleirodobalde/cover.gif",
+    "category": "MOTION DESIGN, VIDEO FRAME BY FRAME",
+    "tools": "ADOBE AFTER EFFECTS | ADOBE PREMIERE PRO",
+    "images": [],
+    "videos": [
       {
-        "src": "images/selfportrait/1.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/selfportrait/2.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/selfportrait/3.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/selfportrait/4.png",
+        "src": "https://media.githubusercontent.com/media/MadalenaSousa/Portfolio/main/images/cavaleirodobalde/demo.mp4",
         "title": "",
         "description": ""
       }
-    ],
-    "videos": []
+    ]
   },
   {
-    "id": 21,
-    "title": "What is Happiness?",
-    "year" : "2018",
-    "description": "This was a project made for a Design class where we had to illustrate what is happiness and of course my brain went immediately to food.",
-    "cover": "images/donut/cover.png",
-    "category": "ILLUSTRATION",
-    "tools": "ADOBE ILLUSTRATOR",
-    "images": [
-      {
-        "src": "images/donut/1.png",
-        "title": "",
-        "description": ""
-      }
-    ],
-    "videos": []
-  },
-  {
-    "id": 22,
-    "title": "Apropriation | Duane Michals",
-    "year" : "2019",
-    "description": "This was a project made for a Photography class where we had to chose some of our favorite photographers and create images based on there works. These should include exact copies and adaptations. In the case of Duane Michals I chose to create two exact copies.",
-    "cover": "images/duanemichals/cover.png",
-    "category": "PHOTOGRAPHY, APPROPRIATION",
-    "tools": "CANON M50 | ADOBE PHOTOSHOP | ADOBE LIGHTROOM",
-    "images": [
-      {
-        "src": "images/duanemichals/1.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/duanemichals/cover.png",
-        "title": "",
-        "description": ""
-      }
-    ],
-    "videos": []
-  },
-  {
-    "id": 23,
-    "title": "Apropriation | Gregory Crewdson",
-    "year" : "2019",
-    "description": "This was a project made for a Photography class where we had to chose some of our favorite photographers and create images based on there works. These should include exact copies and adaptations. Gregory Crewdson is one of my most favorite photographers, so I chose him to work on. I tried to create one exact copy, the picture in the cover and two inspired photos.",
-    "cover": "images/gregorycrewdson/cover.png",
-    "category": "PHOTOGRAPHY, APPROPRIATION",
-    "tools": "ADOBE LIGHTROOM",
-    "images": [
-      {
-        "src": "images/gregorycrewdson/1.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/gregorycrewdson/2.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/gregorycrewdson/cover.png",
-        "title": "",
-        "description": ""
-      }
-    ],
-    "videos": []
-  },
-  {
-    "id": 24,
-    "title": "Poster for Tomorrow",
-    "year" : "2018",
-    "description": "These posters were made for the contest Poster for Tomorrow, in the scope of a class. The goal was to make posters that would alert to the environmental crisis.",
-    "cover": "images/polution/cover.png",
-    "category": "ILLUSTRATION, EDITORIAL DESIGN",
-    "tools": "ADOBE ILLUSTRATOR",
-    "images": [
-      {
-        "src": "images/polution/1.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "src": "images/polution/2.png",
-        "title": "",
-        "description": ""
-      }
-    ],
-    "videos": []
-  },
-  {
-    "id": 25,
+    "id": 15,
     "title": "Koi Fish | First 3D Project",
     "year" : 2021,
     "description": "My first 3D project was done for a class, we had to create any short animated scene in 3D. I chose to do two koi fish swiming around the moon's reflection, inspired in a scene from Avatar: The Last Airbender.",
