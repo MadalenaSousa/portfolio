@@ -1,0 +1,47 @@
+{
+    "id": 26,
+    "title": "Personal Branding (Old)",
+    "year" : 2022,
+    "description": "This was one of my first attempts at creating a personal branding. It was a full identity that included a logo, merch and website. I no longer identified with some of the design choices in here, which is the reason for the change, however I still think that it is a solid identity and is well built.",
+    "cover": "images/personalbranding/cover.gif",
+    "category": "UX/UI, WEB DEVELOPMENT",
+    "tools": "FIGMA",
+    "images": [
+      {
+        "src": "images/personalbranding/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/personalbranding/2.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/personalbranding/3.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/personalbranding/4.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/personalbranding/5.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/personalbranding/6.gif",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/personalbranding/7.png",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "videos": []
+  }
