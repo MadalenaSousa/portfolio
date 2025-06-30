@@ -133,6 +133,52 @@
   },
   {
     "id": 1,
+    "title": "Website Redesign: Pamela Card Jewelry",
+    "year" : "2025",
+    "description": "This project focuses on redesigning the website of jewelry brand Pamela Card to enhance its visual identity and usability. Inspired by the brand’s elegant, feminine, yet powerful style, I aimed to create a digital experience that truly reflects its character. Most images are from the official website, but product names do not match. This is a personal, non-affiliated design concept.",
+    "cover": "images/pamelacard/cover.png",
+    "category": "UX/UI, GRAPHIC DESIGN",
+    "tools": "FIGMA",
+    "images": [
+      {
+        "src": "images/pamelacard/1.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/pamelacard/2.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/pamelacard/3.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/pamelacard/4.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/pamelacard/5.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/pamelacard/6.png",
+        "title": "",
+        "description": ""
+      },
+      {
+        "src": "images/pamelacard/7.png",
+        "title": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
     "title": "Match App Design",
     "year" : "2021",
     "description": "This project was in collaboration with the Construction Institute from University of Porto. The client needed an application where professionals could login and register building data according to the norms of Heritage Assessment. The App also needed to allow searching for building data, finding and adding building locations and other useful functionalities. The prototype can be tested in: https://bit.ly/3DAmB0j",
@@ -185,7 +231,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "ECOSPOTS",
     "year" : "2020",
     "description": "This project's goal was to make sustainability more attractive to people. To do this, ECOSPOTS treats each good action towards the environment as a kind of game elements. Each time you do a good action, you get points. The user can then have friends and compare their points, bringing a competitive element to sustainable actions. The prototype can be tested in: https://bit.ly/3zh7Ah6",
@@ -303,7 +349,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "SCOUT WEBSITE REDESIGN",
     "year" : "2022",
     "description": "Our Scouts website was in need of a UI update and redesign, therefore, I created this prototype of an updated website. I tried to use the main user experience principles to make this something acessible to our scouts and their parents. The website is now starting to be developed according to this prototype.",
@@ -346,7 +392,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Good Registry",
     "year" : 2023,
     "description": "Good Registry is a soon to be app that is ment to help people accept help. It is mainly aimed at mental health struggles but can be broadened. It allows users to register what they are willing to get help with, which to do so in person, can be daunting. Then their friends can select things to help them with.",
@@ -388,7 +434,7 @@
     "videos": []
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "Scale of the Dead",
     "year" : "2020",
     "description": "This was a game made for a Digital Games class in collaboration with some colleagues. My part of this work was mainly focused on development, level design and documentation.",
@@ -441,7 +487,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "The Joke | Interactive Website",
     "year" : "2019",
     "description": "In this project we had to represent a short story making use of multimedia technologies. We chose to create an interactive website about The Joke, a short story by Anton Checkov. Our concept was to explore the story and mix it with a bit of research about the author, so we can see the story being written on the side as well as SVG animations and illustrations about it but this is mixed with written notes and pictures about Checkov's life and society context.",
@@ -508,7 +554,7 @@
     "videos": []
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Design, Art and Technology Conference Identity",
     "year" : "2018",
     "description": "This was a project made in the scope of a course about visual identities, the first branding project I ever made. It was in collaboration with Maria Soares. The briefing included creating a branding for the DAT(Design, Art and Technology) conference, which should include a website and posters.",
@@ -545,7 +591,7 @@
     "videos": []
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "Tipos e Totós: Online Course Design",
     "year" : "2021",
     "description": "This project was made in the context of my e-learning class. I've always found typography something very important and that everyone should have basic knowledge in, so when the opportunity to create an online course came along, I was happy to create this introduction course on basic typographic rules, that can help anyone that needs to write as part of their daily routine.",
@@ -573,7 +619,7 @@
     ]
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "Sample ERP System Dashboard",
     "year" : 2022,
     "description": "This is a small screen that I created for a design challenge where we had to quickly design a single screen of an ERP System's dashboard, improvising it's components.",
@@ -595,7 +641,7 @@
     "videos": []
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "Scouts Group Social Media Posts",
     "year" : 2022,
     "description": "These posts intended to notice people about the fact that the scout year was about to start and that they could join the group. The idea is that, using those small drawings, which are scout leads, we got 5 posts that completed each other, and were connected by a path.",
@@ -617,7 +663,7 @@
     "videos": []
   },
   {
-    "id": 11,
+    "id": 12,
     "title": "2020 Surviving a Pandemic",
     "year" : "2020",
     "description": "This was a game made in the earlier stages of the pandemic, for a Digital Games class. It is a 2D platformer game that intends to joke a little bit about the pandemic situation.",
@@ -645,7 +691,7 @@
     ]
   },
   {
-    "id": 12,
+    "id": 13,
     "title": "Promotional Video | Existências",
     "year" : "2019",
     "description": "This project was made for the association Existências, an association that supports people with drug addictions. This association needed a promotional video that would show what they actually do and how they try to give a better life and minimize risks for people with drug addictions without them having to stop taking drugs.",
@@ -673,7 +719,7 @@
     ]
   },
   {
-    "id": 13,
+    "id": 14,
     "title": "Illustrations",
     "year" : "2020",
     "description": "This project is a gathering of some illustrations made around the theme of flowers (a very common theme for me, I love flowers and drawing them), with some added other elements. All the drawings were made in Adobe Illustrator.",
@@ -705,7 +751,7 @@
     "videos": []
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "Soup Festival (Festival das Sopas)",
     "year" : "2019",
     "description": "This was a freelance project made for the Soup Festival in Figueira de Lorvão. The briefing included the need for posters and social media posts. The identity uses warm colors to relate to the warmth of soup and a fun and think font to appeal to the festival side and to improve visibility. This project was made using Adobe Illustrator, Premiere Pro and After Effects.",
@@ -733,7 +779,7 @@
     ]
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "Music Taste Visualizer",
     "year" : "2020",
     "description": "This project was made for a Project class in the last year of my Bachelor's degree, it was made in collaboration with Maria Soares and Maria Figueira. In this project we were given freedom to create any interactive multimedia artifact, we chose to create a website that would make people closer through music. This project is a multiuser website that uses the Spotify API so that the users can enter and add/remove visual representations of their favorite songs, their favorite playlists and favorite artists. This creates an online artboard filled with several user's favorite music. At the end of the project, UX/UI user testing was done and we received good results.",
@@ -776,7 +822,7 @@
     ]
   },
   {
-    "id": 16,
+    "id": 17,
     "title": "The Bucket Rider Animation",
     "year" : "2019",
     "description": "For this project we had to chose a short story to animate. Me and my colleague Maria Figueira chose The Bucket Rider by Franz Kafka.",
@@ -793,7 +839,7 @@
     ]
   },
   {
-    "id": 17,
+    "id": 18,
     "title": "Wedding Guide",
     "year" : "2019",
     "description": "This was a freelance project made for a wedding. The briefing included the need for a flyer or editorial element with the steps of the wedding ceremony. There were no specific requirements just that it should be elegant and simple. I drawed a rose for the cover and a rose stem for the back and the rest of the work was mainly typographical. This project was made using Adobe In Design.",
@@ -820,7 +866,7 @@
     "videos": []
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "Stanley Morrison Flyer",
     "year" : "2018",
     "description": "This was a project made for a Typography class where we had to make a flyer that showed information about a Typographer and their most famous font. My flyer is about Stanley Morrison, the creator of Times New Roman. The front of the flyer has all the information and the back has big poster.",
@@ -852,7 +898,7 @@
     "videos": []
   },
   {
-    "id": 19,
+    "id": 20,
     "title": "Self Portrait",
     "year" : "2019",
     "description": "This was a project made for a Photography class where we had to present a self portrait. The overall look of the pictures is dark because the goal is to show the not so happy parts of me. Each gesture in a away shows an insecurity or dilemma.",
@@ -884,7 +930,7 @@
     "videos": []
   },
   {
-    "id": 20,
+    "id": 21,
     "title": "What is Happiness?",
     "year" : "2018",
     "description": "This was a project made for a Design class where we had to illustrate what is happiness and of course my brain went immediately to food.",
@@ -901,7 +947,7 @@
     "videos": []
   },
   {
-    "id": 21,
+    "id": 22,
     "title": "Apropriation | Duane Michals",
     "year" : "2019",
     "description": "This was a project made for a Photography class where we had to chose some of our favorite photographers and create images based on there works. These should include exact copies and adaptations. In the case of Duane Michals I chose to create two exact copies.",
@@ -923,7 +969,7 @@
     "videos": []
   },
   {
-    "id": 22,
+    "id": 23,
     "title": "Apropriation | Gregory Crewdson",
     "year" : "2019",
     "description": "This was a project made for a Photography class where we had to chose some of our favorite photographers and create images based on there works. These should include exact copies and adaptations. Gregory Crewdson is one of my most favorite photographers, so I chose him to work on. I tried to create one exact copy, the picture in the cover and two inspired photos.",
@@ -950,7 +996,7 @@
     "videos": []
   },
   {
-    "id": 23,
+    "id": 24,
     "title": "Poster for Tomorrow",
     "year" : "2018",
     "description": "These posters were made for the contest Poster for Tomorrow, in the scope of a class. The goal was to make posters that would alert to the environmental crisis.",
@@ -972,7 +1018,7 @@
     "videos": []
   },
   {
-    "id": 24,
+    "id": 25,
     "title": "Koi Fish | First 3D Project",
     "year" : 2021,
     "description": "My first 3D project was done for a class, we had to create any short animated scene in 3D. I chose to do two koi fish swiming around the moon's reflection, inspired in a scene from Avatar: The Last Airbender.",
@@ -989,7 +1035,7 @@
     ]
   },
   {
-    "id": 25,
+    "id": 26,
     "title": "Personal Branding (Old)",
     "year" : 2022,
     "description": "This was one of my first attempts at creating a personal branding. It was a full identity that included a logo, merch and website. I no longer identified with some of the design choices in here, which is the reason for the change, however I still think that it is a solid identity and is well built.",
